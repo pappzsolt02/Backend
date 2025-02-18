@@ -9,7 +9,6 @@ class UserInfo extends Model
     protected $table = 'userInfo';
 
     protected $fillable = [
-        'UserID',
         'Height',
         'Weight',
     ];
