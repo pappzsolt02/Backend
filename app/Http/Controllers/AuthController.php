@@ -6,6 +6,7 @@ use App\Models\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Validator;
+use App\Models\Foods;
 
 class AuthController extends BaseController
 {
@@ -82,5 +83,11 @@ class AuthController extends BaseController
     {
         auth()->user()->tokens()->delete();
         return $this->sendResponse('', 'Sikeres kijelentkezés');
+    }
+
+    public function foods()
+    {
+        $foods = Foods::all();
+        return response()->json($foods);
     }
 }
