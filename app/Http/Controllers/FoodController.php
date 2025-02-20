@@ -16,14 +16,14 @@ class FoodController extends BaseController
     }
 
     // // Get a specific food by ID
-    // public function food($id)
-    // {
-    //     $food = Foods::find($id);
+    public function food($id)
+    {
+        $food = Foods::find($id);
 
-    //     if (!$food) {
-    //         return response()->json(['message' => 'Food not found'], 404);
-    //     }
+        if (!$food) {
+            return response()->json(['message' => 'Food not found'], 404);
+        }
 
-    //     return response()->json($food);
-    // }
+        return response()->json($food);
+    }
 }

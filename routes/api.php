@@ -16,6 +16,7 @@ Route::post('register', [AuthController::class, 'register']);
 Route::post('login', [AuthController::class, 'login']);
 
 Route::get('foods', [FoodController::class, 'foods']);
+Route::get('food/{id}', [FoodController::class, 'food']);
 
 Route::any('have-to-login', function () {
     // return response()->json('Bejelentkezés szükséges',401);
