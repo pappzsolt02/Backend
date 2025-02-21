@@ -48,4 +48,10 @@ class User extends Authenticatable
             'password' => 'hashed',
         ];
     }
+
+    //1-N
+    public function userInfo()
+    {
+        return $this->hasMany(UserInfo::class);
+    }
 }

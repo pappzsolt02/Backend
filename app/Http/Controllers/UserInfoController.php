@@ -13,7 +13,7 @@ class UserInfoController extends BaseController
     public function show()
     {
         $userId = Auth::id(); // Get the logged-in user ID
-        $userInfo = UserInfo::where('UserID', $userId)->first(); // Assuming UserID is the foreign key
+        $userInfo = UserInfo::where('UserID', $userId)->get(); // Assuming UserID is the foreign key
 
         if (!$userInfo) {
             return $this->sendError('User information not found.');
@@ -51,21 +51,6 @@ class UserInfoController extends BaseController
         $userInfo->save();
 
         return $this->sendResponse($userInfo, 'User info updated successfully.');
-    }
-
-    // Delete user info
-    public function destroy()
-    {
-        $userId = Auth::id(); // Get the logged-in user ID
-        $userInfo = UserInfo::where('UserID', $userId)->first();
-
-        if (!$userInfo) {
-            return $this->sendError('User information not found.');
-        }
-
-        $userInfo->delete();
-
-        return $this->sendResponse([], 'User info deleted successfully.');
     }
 }
 

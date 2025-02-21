@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "Name": "Csirkemell",
+        "Weight": 200,
+        "Calories": 165.0,
+        "Protein": 31.0,
+        "Carbohydrate": 0.0,
+        "Fat": 3.6,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 2,
+        "Name": "Banán",
+        "Weight": 120,
+        "Calories": 105.0,
+        "Protein": 1.3,
+        "Carbohydrate": 27.0,
+        "Fat": 0.3,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 3,
+        "Name": "Avokádó",
+        "Weight": 150,
+        "Calories": 240.0,
+        "Protein": 3.0,
+        "Carbohydrate": 12.0,
+        "Fat": 22.0,
+        "Type": "Zsír"
+    },
+    {
+        "id": 4,
+        "Name": "Rizs",
+        "Weight": 100,
+        "Calories": 130.0,
+        "Protein": 2.7,
+        "Carbohydrate": 28.0,
+        "Fat": 0.3,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 5,
+        "Name": "Tojás",
+        "Weight": 50,
+        "Calories": 70.0,
+        "Protein": 6.0,
+        "Carbohydrate": 0.6,
+        "Fat": 5.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 6,
+        "Name": "Alma",
+        "Weight": 150,
+        "Calories": 80.0,
+        "Protein": 0.5,
+        "Carbohydrate": 22.0,
+        "Fat": 0.2,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 7,
+        "Name": "Sajt",
+        "Weight": 30,
+        "Calories": 120.0,
+        "Protein": 8.0,
+        "Carbohydrate": 1.0,
+        "Fat": 10.0,
+        "Type": "Zsír"
+    },
+    {
+        "id": 8,
+        "Name": "Túró",
+        "Weight": 100,
+        "Calories": 120.0,
+        "Protein": 12.0,
+        "Carbohydrate": 3.0,
+        "Fat": 6.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 9,
+        "Name": "Burgonya",
+        "Weight": 150,
+        "Calories": 110.0,
+        "Protein": 2.0,
+        "Carbohydrate": 26.0,
+        "Fat": 0.1,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 10,
+        "Name": "Lencse",
+        "Weight": 100,
+        "Calories": 116.0,
+        "Protein": 9.0,
+        "Carbohydrate": 20.0,
+        "Fat": 0.4,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 11,
+        "Name": "Körté",
+        "Weight": 130,
+        "Calories": 100.0,
+        "Protein": 0.6,
+        "Carbohydrate": 26.0,
+        "Fat": 0.3,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 12,
+        "Name": "Zöldbab",
+        "Weight": 100,
+        "Calories": 35.0,
+        "Protein": 2.0,
+        "Carbohydrate": 7.0,
+        "Fat": 0.2,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 13,
+        "Name": "Kelkáposzta",
+        "Weight": 150,
+        "Calories": 50.0,
+        "Protein": 5.0,
+        "Carbohydrate": 10.0,
+        "Fat": 0.6,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 14,
+        "Name": "Spenót",
+        "Weight": 100,
+        "Calories": 23.0,
+        "Protein": 2.9,
+        "Carbohydrate": 3.6,
+        "Fat": 0.4,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 15,
+        "Name": "Szőlő",
+        "Weight": 120,
+        "Calories": 85.0,
+        "Protein": 0.9,
+        "Carbohydrate": 23.0,
+        "Fat": 0.2,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 16,
+        "Name": "Paradicsom",
+        "Weight": 100,
+        "Calories": 18.0,
+        "Protein": 0.9,
+        "Carbohydrate": 3.9,
+        "Fat": 0.2,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 17,
+        "Name": "Kukorica",
+        "Weight": 100,
+        "Calories": 96.0,
+        "Protein": 3.4,
+        "Carbohydrate": 19.0,
+        "Fat": 1.5,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 18,
+        "Name": "Zeller",
+        "Weight": 100,
+        "Calories": 16.0,
+        "Protein": 0.7,
+        "Carbohydrate": 3.5,
+        "Fat": 0.2,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 19,
+        "Name": "Karfiol",
+        "Weight": 150,
+        "Calories": 25.0,
+        "Protein": 2.0,
+        "Carbohydrate": 5.0,
+        "Fat": 0.3,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 20,
+        "Name": "Hagyma",
+        "Weight": 100,
+        "Calories": 40.0,
+        "Protein": 1.0,
+        "Carbohydrate": 9.0,
+        "Fat": 0.1,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 21,
+        "Name": "Tök",
+        "Weight": 150,
+        "Calories": 45.0,
+        "Protein": 1.0,
+        "Carbohydrate": 12.0,
+        "Fat": 0.1,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 22,
+        "Name": "Cukkini",
+        "Weight": 100,
+        "Calories": 17.0,
+        "Protein": 1.0,
+        "Carbohydrate": 3.1,
+        "Fat": 0.3,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 23,
+        "Name": "Káposzta",
+        "Weight": 100,
+        "Calories": 25.0,
+        "Protein": 1.3,
+        "Carbohydrate": 5.0,
+        "Fat": 0.1,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 24,
+        "Name": "Brokkoli",
+        "Weight": 100,
+        "Calories": 35.0,
+        "Protein": 2.4,
+        "Carbohydrate": 7.0,
+        "Fat": 0.4,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 25,
+        "Name": "Fokhagyma",
+        "Weight": 10,
+        "Calories": 5.0,
+        "Protein": 0.2,
+        "Carbohydrate": 1.0,
+        "Fat": 0.02,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 26,
+        "Name": "Pulykamell",
+        "Weight": 200,
+        "Calories": 135.0,
+        "Protein": 29.0,
+        "Carbohydrate": 0.0,
+        "Fat": 1.2,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 27,
+        "Name": "Hal",
+        "Weight": 150,
+        "Calories": 150.0,
+        "Protein": 25.0,
+        "Carbohydrate": 0.0,
+        "Fat": 7.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 28,
+        "Name": "Marhahús",
+        "Weight": 200,
+        "Calories": 250.0,
+        "Protein": 26.0,
+        "Carbohydrate": 0.0,
+        "Fat": 17.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 29,
+        "Name": "Sertéshús",
+        "Weight": 200,
+        "Calories": 242.0,
+        "Protein": 27.0,
+        "Carbohydrate": 0.0,
+        "Fat": 14.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 30,
+        "Name": "Túró Rudi",
+        "Weight": 50,
+        "Calories": 120.0,
+        "Protein": 5.0,
+        "Carbohydrate": 18.0,
+        "Fat": 4.0,
+        "Type": "Desszert"
+    },
+    {
+        "id": 31,
+        "Name": "Granola",
+        "Weight": 50,
+        "Calories": 200.0,
+        "Protein": 6.0,
+        "Carbohydrate": 30.0,
+        "Fat": 7.0,
+        "Type": "Snack"
+    },
+    {
+        "id": 32,
+        "Name": "Tönkölybúza",
+        "Weight": 100,
+        "Calories": 340.0,
+        "Protein": 14.0,
+        "Carbohydrate": 60.0,
+        "Fat": 3.0,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 33,
+        "Name": "Kefir",
+        "Weight": 200,
+        "Calories": 100.0,
+        "Protein": 6.0,
+        "Carbohydrate": 12.0,
+        "Fat": 2.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 34,
+        "Name": "Joghurtn",
+        "Weight": 150,
+        "Calories": 85.0,
+        "Protein": 5.0,
+        "Carbohydrate": 10.0,
+        "Fat": 3.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 35,
+        "Name": "Tej",
+        "Weight": 100,
+        "Calories": 42.0,
+        "Protein": 3.0,
+        "Carbohydrate": 5.0,
+        "Fat": 1.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 36,
+        "Name": "Füstölt lazac",
+        "Weight": 100,
+        "Calories": 232.0,
+        "Protein": 20.0,
+        "Carbohydrate": 0.0,
+        "Fat": 18.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 37,
+        "Name": "Szalámi",
+        "Weight": 50,
+        "Calories": 250.0,
+        "Protein": 15.0,
+        "Carbohydrate": 1.0,
+        "Fat": 20.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 38,
+        "Name": "Sonka",
+        "Weight": 100,
+        "Calories": 120.0,
+        "Protein": 15.0,
+        "Carbohydrate": 0.0,
+        "Fat": 7.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 39,
+        "Name": "Füstölt pulyka",
+        "Weight": 100,
+        "Calories": 135.0,
+        "Protein": 25.0,
+        "Carbohydrate": 0.0,
+        "Fat": 3.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 40,
+        "Name": "Kukoricapehely",
+        "Weight": 30,
+        "Calories": 120.0,
+        "Protein": 2.0,
+        "Carbohydrate": 25.0,
+        "Fat": 0.5,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 41,
+        "Name": "Fagyi",
+        "Weight": 50,
+        "Calories": 150.0,
+        "Protein": 2.0,
+        "Carbohydrate": 20.0,
+        "Fat": 7.0,
+        "Type": "Desszert"
+    },
+    {
+        "id": 42,
+        "Name": "Chips",
+        "Weight": 30,
+        "Calories": 160.0,
+        "Protein": 2.0,
+        "Carbohydrate": 15.0,
+        "Fat": 10.0,
+        "Type": "Snack"
+    },
+    {
+        "id": 43,
+        "Name": "Tortilla",
+        "Weight": 50,
+        "Calories": 150.0,
+        "Protein": 4.0,
+        "Carbohydrate": 28.0,
+        "Fat": 3.0,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 44,
+        "Name": "Túró",
+        "Weight": 100,
+        "Calories": 80.0,
+        "Protein": 11.0,
+        "Carbohydrate": 4.0,
+        "Fat": 4.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 45,
+        "Name": "Kenyér",
+        "Weight": 40,
+        "Calories": 100.0,
+        "Protein": 3.0,
+        "Carbohydrate": 18.0,
+        "Fat": 1.0,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 46,
+        "Name": "Barack",
+        "Weight": 100,
+        "Calories": 39.0,
+        "Protein": 1.0,
+        "Carbohydrate": 10.0,
+        "Fat": 0.1,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 47,
+        "Name": "Ananász",
+        "Weight": 100,
+        "Calories": 50.0,
+        "Protein": 0.5,
+        "Carbohydrate": 13.0,
+        "Fat": 0.1,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 48,
+        "Name": "Mandula",
+        "Weight": 30,
+        "Calories": 170.0,
+        "Protein": 6.0,
+        "Carbohydrate": 6.0,
+        "Fat": 14.0,
+        "Type": "Zsír"
+    },
+    {
+        "id": 49,
+        "Name": "Dió",
+        "Weight": 30,
+        "Calories": 200.0,
+        "Protein": 5.0,
+        "Carbohydrate": 5.0,
+        "Fat": 18.0,
+        "Type": "Zsír"
+    },
+    {
+        "id": 50,
+        "Name": "Füge",
+        "Weight": 100,
+        "Calories": 74.0,
+        "Protein": 0.8,
+        "Carbohydrate": 19.0,
+        "Fat": 0.2,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 51,
+        "Name": "Földimogyoró",
+        "Weight": 30,
+        "Calories": 170.0,
+        "Protein": 7.0,
+        "Carbohydrate": 6.0,
+        "Fat": 14.0,
+        "Type": "Zsír"
+    },
+    {
+        "id": 52,
+        "Name": "Mogyoró",
+        "Weight": 30,
+        "Calories": 180.0,
+        "Protein": 5.0,
+        "Carbohydrate": 5.0,
+        "Fat": 16.0,
+        "Type": "Zsír"
+    },
+    {
+        "id": 53,
+        "Name": "Törökmogyoró",
+        "Weight": 30,
+        "Calories": 170.0,
+        "Protein": 6.0,
+        "Carbohydrate": 5.0,
+        "Fat": 15.0,
+        "Type": "Zsír"
+    },
+    {
+        "id": 54,
+        "Name": "Csonthéjas gyümölcsök",
+        "Weight": 100,
+        "Calories": 80.0,
+        "Protein": 2.0,
+        "Carbohydrate": 20.0,
+        "Fat": 0.5,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 55,
+        "Name": "Kókuszreszelék",
+        "Weight": 30,
+        "Calories": 200.0,
+        "Protein": 2.0,
+        "Carbohydrate": 6.0,
+        "Fat": 18.0,
+        "Type": "Zsír"
+    },
+    {
+        "id": 56,
+        "Name": "Rántott csirke",
+        "Weight": 200,
+        "Calories": 350.0,
+        "Protein": 28.0,
+        "Carbohydrate": 20.0,
+        "Fat": 20.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 57,
+        "Name": "Tészta",
+        "Weight": 100,
+        "Calories": 160.0,
+        "Protein": 5.0,
+        "Carbohydrate": 31.0,
+        "Fat": 1.0,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 58,
+        "Name": "Spagetti",
+        "Weight": 100,
+        "Calories": 130.0,
+        "Protein": 5.0,
+        "Carbohydrate": 26.0,
+        "Fat": 1.0,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 59,
+        "Name": "Lazac",
+        "Weight": 100,
+        "Calories": 200.0,
+        "Protein": 22.0,
+        "Carbohydrate": 0.0,
+        "Fat": 12.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 60,
+        "Name": "Szardínia",
+        "Weight": 100,
+        "Calories": 150.0,
+        "Protein": 20.0,
+        "Carbohydrate": 0.0,
+        "Fat": 8.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 61,
+        "Name": "Zabpehely",
+        "Weight": 100,
+        "Calories": 389.0,
+        "Protein": 13.0,
+        "Carbohydrate": 66.0,
+        "Fat": 7.0,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 62,
+        "Name": "Lencse",
+        "Weight": 100,
+        "Calories": 116.0,
+        "Protein": 9.0,
+        "Carbohydrate": 20.0,
+        "Fat": 0.4,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 63,
+        "Name": "Quinoa",
+        "Weight": 100,
+        "Calories": 120.0,
+        "Protein": 4.0,
+        "Carbohydrate": 21.0,
+        "Fat": 2.0,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 64,
+        "Name": "Búzaliszt",
+        "Weight": 100,
+        "Calories": 340.0,
+        "Protein": 10.0,
+        "Carbohydrate": 70.0,
+        "Fat": 1.0,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 65,
+        "Name": "Rukkola",
+        "Weight": 50,
+        "Calories": 10.0,
+        "Protein": 0.8,
+        "Carbohydrate": 2.0,
+        "Fat": 0.1,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 66,
+        "Name": "Lilahagyma",
+        "Weight": 100,
+        "Calories": 40.0,
+        "Protein": 1.2,
+        "Carbohydrate": 9.0,
+        "Fat": 0.1,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 67,
+        "Name": "Torma",
+        "Weight": 100,
+        "Calories": 50.0,
+        "Protein": 1.4,
+        "Carbohydrate": 11.0,
+        "Fat": 0.1,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 68,
+        "Name": "Sárgarépa",
+        "Weight": 100,
+        "Calories": 41.0,
+        "Protein": 1.0,
+        "Carbohydrate": 10.0,
+        "Fat": 0.2,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 69,
+        "Name": "Petrezselyem",
+        "Weight": 100,
+        "Calories": 36.0,
+        "Protein": 3.0,
+        "Carbohydrate": 6.0,
+        "Fat": 0.8,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 70,
+        "Name": "Borsó",
+        "Weight": 100,
+        "Calories": 81.0,
+        "Protein": 5.0,
+        "Carbohydrate": 14.0,
+        "Fat": 0.5,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 71,
+        "Name": "Főtt tojás",
+        "Weight": 50,
+        "Calories": 77.0,
+        "Protein": 6.3,
+        "Carbohydrate": 0.6,
+        "Fat": 5.3,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 72,
+        "Name": "Zöldségköret",
+        "Weight": 150,
+        "Calories": 75.0,
+        "Protein": 3.0,
+        "Carbohydrate": 15.0,
+        "Fat": 0.5,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 73,
+        "Name": "Rántott sajt",
+        "Weight": 100,
+        "Calories": 300.0,
+        "Protein": 12.0,
+        "Carbohydrate": 20.0,
+        "Fat": 20.0,
+        "Type": "Zsír"
+    },
+    {
+        "id": 74,
+        "Name": "Sült krumpli",
+        "Weight": 100,
+        "Calories": 312.0,
+        "Protein": 3.0,
+        "Carbohydrate": 36.0,
+        "Fat": 15.0,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 75,
+        "Name": "Grill csirke",
+        "Weight": 150,
+        "Calories": 200.0,
+        "Protein": 30.0,
+        "Carbohydrate": 0.0,
+        "Fat": 10.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 76,
+        "Name": "Főtt rizs",
+        "Weight": 100,
+        "Calories": 130.0,
+        "Protein": 2.7,
+        "Carbohydrate": 28.0,
+        "Fat": 0.3,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 77,
+        "Name": "Száraz kolbász",
+        "Weight": 50,
+        "Calories": 200.0,
+        "Protein": 15.0,
+        "Carbohydrate": 1.0,
+        "Fat": 16.0,
+        "Type": "Zsír"
+    },
+    {
+        "id": 78,
+        "Name": "Pisztráng",
+        "Weight": 100,
+        "Calories": 140.0,
+        "Protein": 20.0,
+        "Carbohydrate": 0.0,
+        "Fat": 7.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 79,
+        "Name": "Húsleves",
+        "Weight": 250,
+        "Calories": 100.0,
+        "Protein": 10.0,
+        "Carbohydrate": 5.0,
+        "Fat": 3.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 80,
+        "Name": "Sült hal",
+        "Weight": 100,
+        "Calories": 250.0,
+        "Protein": 20.0,
+        "Carbohydrate": 0.0,
+        "Fat": 18.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 81,
+        "Name": "Sült zöldség",
+        "Weight": 150,
+        "Calories": 150.0,
+        "Protein": 3.0,
+        "Carbohydrate": 30.0,
+        "Fat": 3.0,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 82,
+        "Name": "Sült pulyka",
+        "Weight": 150,
+        "Calories": 250.0,
+        "Protein": 30.0,
+        "Carbohydrate": 0.0,
+        "Fat": 12.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 83,
+        "Name": "Túró",
+        "Weight": 100,
+        "Calories": 98.0,
+        "Protein": 11.0,
+        "Carbohydrate": 3.0,
+        "Fat": 4.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 84,
+        "Name": "Céklasaláta",
+        "Weight": 150,
+        "Calories": 90.0,
+        "Protein": 2.0,
+        "Carbohydrate": 20.0,
+        "Fat": 0.5,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 85,
+        "Name": "Joghurt",
+        "Weight": 100,
+        "Calories": 59.0,
+        "Protein": 4.0,
+        "Carbohydrate": 6.0,
+        "Fat": 3.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 86,
+        "Name": "Rizseshús",
+        "Weight": 150,
+        "Calories": 320.0,
+        "Protein": 25.0,
+        "Carbohydrate": 40.0,
+        "Fat": 10.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 87,
+        "Name": "Sült burgonya",
+        "Weight": 100,
+        "Calories": 200.0,
+        "Protein": 3.0,
+        "Carbohydrate": 30.0,
+        "Fat": 8.0,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 88,
+        "Name": "Sült édesburgonya",
+        "Weight": 100,
+        "Calories": 100.0,
+        "Protein": 2.0,
+        "Carbohydrate": 23.0,
+        "Fat": 0.2,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 89,
+        "Name": "Fűszeres csirke",
+        "Weight": 150,
+        "Calories": 220.0,
+        "Protein": 30.0,
+        "Carbohydrate": 5.0,
+        "Fat": 9.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 90,
+        "Name": "Tzatziki",
+        "Weight": 100,
+        "Calories": 50.0,
+        "Protein": 3.0,
+        "Carbohydrate": 4.0,
+        "Fat": 3.0,
+        "Type": "Fehérje"
+    },
+    {
+        "id": 91,
+        "Name": "Fokhagyma",
+        "Weight": 10,
+        "Calories": 5.0,
+        "Protein": 0.2,
+        "Carbohydrate": 1.0,
+        "Fat": 0.0,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 92,
+        "Name": "Túrós batyu",
+        "Weight": 120,
+        "Calories": 250.0,
+        "Protein": 8.0,
+        "Carbohydrate": 30.0,
+        "Fat": 10.0,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 93,
+        "Name": "Fahéjas alma",
+        "Weight": 100,
+        "Calories": 52.0,
+        "Protein": 0.3,
+        "Carbohydrate": 14.0,
+        "Fat": 0.2,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 94,
+        "Name": "Dió",
+        "Weight": 30,
+        "Calories": 180.0,
+        "Protein": 4.0,
+        "Carbohydrate": 4.0,
+        "Fat": 18.0,
+        "Type": "Zsír"
+    },
+    {
+        "id": 95,
+        "Name": "Földimogyoróvaj",
+        "Weight": 30,
+        "Calories": 190.0,
+        "Protein": 8.0,
+        "Carbohydrate": 6.0,
+        "Fat": 16.0,
+        "Type": "Zsír"
+    },
+    {
+        "id": 96,
+        "Name": "Alma",
+        "Weight": 100,
+        "Calories": 52.0,
+        "Protein": 0.3,
+        "Carbohydrate": 14.0,
+        "Fat": 0.2,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 97,
+        "Name": "Banán",
+        "Weight": 100,
+        "Calories": 89.0,
+        "Protein": 1.1,
+        "Carbohydrate": 23.0,
+        "Fat": 0.3,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 98,
+        "Name": "Szőlő",
+        "Weight": 100,
+        "Calories": 69.0,
+        "Protein": 0.7,
+        "Carbohydrate": 18.0,
+        "Fat": 0.2,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 99,
+        "Name": "Mangó",
+        "Weight": 100,
+        "Calories": 60.0,
+        "Protein": 0.8,
+        "Carbohydrate": 15.0,
+        "Fat": 0.4,
+        "Type": "Szénhidrát"
+    },
+    {
+        "id": 100,
+        "Name": "Kivi",
+        "Weight": 100,
+        "Calories": 61.0,
+        "Protein": 1.1,
+        "Carbohydrate": 15.0,
+        "Fat": 0.5,
+        "Type": "Szénhidrát"
+    }
+]
