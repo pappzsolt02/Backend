@@ -15,7 +15,6 @@ class CreateWorkoutsTable extends Migration
             $table->string('shortDescription');
             $table->text('description');
             $table->string('equipment');
-            $table->timestamps();
         });
     }
 
