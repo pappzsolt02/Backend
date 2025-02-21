@@ -3,6 +3,7 @@
 namespace Database\Seeders;
 
 use App\Models\Foods;
+use App\Models\Workout;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\File;
 
@@ -44,5 +45,27 @@ class DatabaseSeeder extends Seeder
                 'Type' => $value->Type,
             ]);
         }
+
+        //Sample
+
+        // "ID": 1,
+        // "MuscleGroup": "Mellkas",
+        // "Name": "Fekvenyomás",
+        // "ShortDescription": "Alapvető mellkas gyakorlat",
+        // "Description": "A fekvenyomás segít a mellkas, a vállak és a tricepsz erősítésében. Fekve nyomunk egy súlyt, miközben a lábak a padlón vannak.",
+        // "Equipment": "Súlyzó, pad"
+
+        $json = File::get('database/data/workouts.json');
+        $workouts = json_decode($json);
+        foreach ($workouts as $key => $value) {
+            Workout::create([
+                'MuscleGroup' => $value->MuscleGroup,
+                'Name' => $value->Name,
+                'ShortDescription' => $value->ShortDescription,
+                'Description' => $value->Description,
+                'Equipment' => $value->Equipment,
+            ]);
+        }
+
     }
 }
