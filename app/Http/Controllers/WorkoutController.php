@@ -7,10 +7,16 @@ use App\Models\Workout;
 
 class WorkoutController extends Controller
 {
-    //Get all workouts
-    public function workouts()
+    //Get all workouts with pagination
+    public function workouts(Request $request)
     {
-        $workouts = Workout::all();
+        // Define how many records you want to display on a page
+        $perPage = $request->input('per_page', 9); // alapértelmezett 10 elem, ha nincs megadva
+
+        // Retrieve the records by paging
+        $workouts = Workout::paginate($perPage);
+
+        // Return a response
         return response()->json($workouts);
     }
 

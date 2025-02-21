@@ -9,10 +9,16 @@ use App\Models\Foods;
 class FoodController extends BaseController
 {
     // Get all foods
-    public function foods()
+    public function foods(Request $request)
     {
-        $foods = Foods::all();
-        return response()->json($foods);
+        // Define how many records you want to display on a page
+        $perPage = $request->input('per_page', 9); // alapértelmezett 10 elem, ha nincs megadva
+
+        // Retrieve the records by paging
+        $workouts = Foods::paginate($perPage);
+
+        // Return a response
+        return response()->json($workouts);
     }
 
     // // Get a specific food by ID
