@@ -10,47 +10,57 @@ use Illuminate\Support\Facades\Auth;
 class UserInfoController extends BaseController
 {
     // Show current user's info
-    public function show()
+    public function index()
     {
-        $userId = Auth::id(); // Get the logged-in user ID
-        $userInfo = UserInfo::where('UserID', $userId)->get(); // Assuming UserID is the foreign key
-
-        if (!$userInfo) {
-            return $this->sendError('User information not found.');
-        }
-
-        return $this->sendResponse($userInfo, 'User info retrieved successfully.');
+        $userInfo = UserInfo::all();
+        return $this->sendResponse($userInfo, 'Adatok elküldve');
     }
 
-    // Update the user's info
-    public function update(Request $request)
+    public function store(Request $request)
     {
-        $userId = Auth::id(); // Get the logged-in user ID
-
-        // Validate incoming data
-        $validator = Validator::make($request->all(), [
-            'Height' => 'required|numeric|min:50|max:300',
-            'Weight' => 'required|numeric|min:20|max:500',
+        $user = Auth::user();
+        $input = $request->all();
+        $validator = Validator::make($input, [
+            'height' => 'required|regex:/^\d+(\.\d{1,2})?$/',
+            'weight' => 'required|regex:/^\d+(\.\d{1,2})?$/',
         ]);
-
         if ($validator->fails()) {
-            return $this->sendError('Validation Error', $validator->errors());
+            return $this->sendError($validator->errors(), [], 400);
         }
-
-        $userInfo = UserInfo::where('UserID', $userId)->first();
-
-        // If user info does not exist, create a new record
-        if (!$userInfo) {
-            $userInfo = new UserInfo();
-            $userInfo->UserID = $userId;
-        }
-
-        // Update or create user info
-        $userInfo->Height = $request->input('Height');
-        $userInfo->Weight = $request->input('Weight');
-        $userInfo->save();
-
-        return $this->sendResponse($userInfo, 'User info updated successfully.');
+        $input['user_id'] = $user->id;
+        $userInfo = UserInfo::create($input);
+        return $this->sendResponse($userInfo, 'Adatok sikeresen elküldve!', 201);
     }
-}
 
+
+    // // Update the user's info
+    // public function update(Request $request)
+    // {
+    //     $userId = Auth::id(); // Get the logged-in user ID
+
+    //     // Validate incoming data
+    //     $validator = Validator::make($request->all(), [
+    //         'Height' => 'required|numeric|min:50|max:300',
+    //         'Weight' => 'required|numeric|min:20|max:500',
+    //     ]);
+
+    //     if ($validator->fails()) {
+    //         return $this->sendError('Validation Error', $validator->errors());
+    //     }
+
+    //     $userInfo = UserInfo::where('UserID', $userId)->first();
+
+    //     // If user info does not exist, create a new record
+    //     if (!$userInfo) {
+    //         $userInfo = new UserInfo();
+    //         $userInfo->UserID = $userId;
+    //     }
+
+    //     // Update or create user info
+    //     $userInfo->Height = $request->input('Height');
+    //     $userInfo->Weight = $request->input('Weight');
+    //     $userInfo->save();
+
+    //     return $this->sendResponse($userInfo, 'User info updated successfully.');
+    // }
+}

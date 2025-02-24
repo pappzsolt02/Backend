@@ -49,7 +49,7 @@ class User extends Authenticatable
         ];
     }
 
-    //1-N
+    //1 -> N
     public function userInfo()
     {
         return $this->hasMany(UserInfo::class);

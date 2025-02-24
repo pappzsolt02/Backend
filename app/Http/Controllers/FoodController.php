@@ -12,7 +12,7 @@ class FoodController extends BaseController
     public function foods(Request $request)
     {
         // Define how many records you want to display on a page
-        $perPage = $request->input('per_page', 9); // alapértelmezett 10 elem, ha nincs megadva
+        $perPage = $request->input('per_page', 12);
 
         // Retrieve the records by paging
         $workouts = Foods::paginate($perPage);

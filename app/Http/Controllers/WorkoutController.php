@@ -11,8 +11,7 @@ class WorkoutController extends Controller
     public function workouts(Request $request)
     {
         // Define how many records you want to display on a page
-        $perPage = $request->input('per_page', 9); // alapértelmezett 10 elem, ha nincs megadva
-
+        $perPage = $request->input('per_page', 9);
         // Retrieve the records by paging
         $workouts = Workout::paginate($perPage);
 
