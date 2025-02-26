@@ -15,6 +15,7 @@ class Foods extends Model
 
     protected $fillable = [
         'name',
+        'imng',
         'weight',
         'calories',
         'protein',
