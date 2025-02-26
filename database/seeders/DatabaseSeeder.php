@@ -37,6 +37,7 @@ class DatabaseSeeder extends Seeder
         foreach ($foods as $key => $value) {
             Foods::create([
                 'Name' => $value->Name,
+                'Img' => $value->Img,
                 'Weight' => $value->Weight,
                 'Calories' => $value->Calories,
                 'Protein' => $value->Protein,
