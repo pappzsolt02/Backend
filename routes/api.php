@@ -17,7 +17,7 @@ Route::post('register', [AuthController::class, 'register']);
 Route::post('login', [AuthController::class, 'login']);
 
 Route::get('foods', [FoodController::class, 'foods']);
-Route::get('food/{id}', [FoodController::class, 'food']);
+Route::get('food/{type}', [FoodController::class, 'food']);
 
 Route::get('workouts', [WorkoutController::class, 'workouts']);
 Route::get('workout/{id}', [WorkoutController::class, 'workout']);
