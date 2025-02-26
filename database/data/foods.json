@@ -2,6 +2,7 @@
     {
         "id": 1,
         "Name": "Csirkemell",
+        "Img": "https://images.unsplash.com/photo-1676471759564-8426f19510c0?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 200,
         "Calories": 165.0,
         "Protein": 31.0,
@@ -12,6 +13,7 @@
     {
         "id": 2,
         "Name": "Banán",
+        "Img": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmFuYW5hfGVufDB8fDB8fHww",
         "Weight": 120,
         "Calories": 105.0,
         "Protein": 1.3,
@@ -22,6 +24,7 @@
     {
         "id": 3,
         "Name": "Avokádó",
+        "Img": "https://images.unsplash.com/photo-1601039641847-7857b994d704?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 150,
         "Calories": 240.0,
         "Protein": 3.0,
@@ -32,6 +35,7 @@
     {
         "id": 4,
         "Name": "Rizs",
+        "Img": "https://images.unsplash.com/photo-1644131447497-8723db691320?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 130.0,
         "Protein": 2.7,
@@ -42,6 +46,7 @@
     {
         "id": 5,
         "Name": "Tojás",
+        "Img": "https://images.unsplash.com/photo-1477506410535-f12fe9af97cc?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 50,
         "Calories": 70.0,
         "Protein": 6.0,
@@ -52,6 +57,7 @@
     {
         "id": 6,
         "Name": "Alma",
+        "Img": "https://images.unsplash.com/photo-1589217157232-464b505b197f?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 150,
         "Calories": 80.0,
         "Protein": 0.5,
@@ -62,6 +68,7 @@
     {
         "id": 7,
         "Name": "Sajt",
+        "Img": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 30,
         "Calories": 120.0,
         "Protein": 8.0,
@@ -72,6 +79,7 @@
     {
         "id": 8,
         "Name": "Túró",
+        "Img": "https://images.unsplash.com/photo-1581868164904-77b124b80242?q=80&w=988&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 120.0,
         "Protein": 12.0,
@@ -82,6 +90,7 @@
     {
         "id": 9,
         "Name": "Burgonya",
+        "Img": "https://images.unsplash.com/photo-1590165482129-1b8b27698780?q=80&w=1227&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 150,
         "Calories": 110.0,
         "Protein": 2.0,
@@ -92,6 +101,7 @@
     {
         "id": 10,
         "Name": "Lencse",
+        "Img": "https://images.unsplash.com/photo-1599579085809-4edbc35cee01?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 116.0,
         "Protein": 9.0,
@@ -102,6 +112,7 @@
     {
         "id": 11,
         "Name": "Körté",
+        "Img": "https://images.unsplash.com/photo-1572929773424-93549dced6d0?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 130,
         "Calories": 100.0,
         "Protein": 0.6,
@@ -112,6 +123,7 @@
     {
         "id": 12,
         "Name": "Zöldbab",
+        "Img": "https://images.unsplash.com/photo-1603431777007-61db54157a3b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z3JlZW4lMjBiZWFuc3xlbnwwfHwwfHx8MA%3D%3D",
         "Weight": 100,
         "Calories": 35.0,
         "Protein": 2.0,
@@ -122,6 +134,7 @@
     {
         "id": 13,
         "Name": "Kelkáposzta",
+        "Img": "https://images.unsplash.com/photo-1624300477446-d379e923eca8?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 150,
         "Calories": 50.0,
         "Protein": 5.0,
@@ -132,6 +145,7 @@
     {
         "id": 14,
         "Name": "Spenót",
+        "Img": "https://images.unsplash.com/photo-1578283326173-fbb0f83b59b2?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 23.0,
         "Protein": 2.9,
@@ -142,6 +156,7 @@
     {
         "id": 15,
         "Name": "Szőlő",
+        "Img": "https://images.unsplash.com/photo-1632576883732-f131be0be48a?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 120,
         "Calories": 85.0,
         "Protein": 0.9,
@@ -152,6 +167,7 @@
     {
         "id": 16,
         "Name": "Paradicsom",
+        "Img": "https://images.unsplash.com/photo-1582284540020-8acbe03f4924?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 18.0,
         "Protein": 0.9,
@@ -162,6 +178,7 @@
     {
         "id": 17,
         "Name": "Kukorica",
+        "Img": "https://images.unsplash.com/photo-1634467524884-897d0af5e104?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29ybnxlbnwwfHwwfHx8MA%3D%3D",
         "Weight": 100,
         "Calories": 96.0,
         "Protein": 3.4,
@@ -172,6 +189,7 @@
     {
         "id": 18,
         "Name": "Zeller",
+        "Img": "https://img.freepik.com/free-photo/closeup-fresh-celery-blue-background_53876-16191.jpg?t=st=1740468940~exp=1740472540~hmac=7558d7d904c8a482a77e241446c6484712e8a195d3a58bea4aaee09094cf4742&w=740",
         "Weight": 100,
         "Calories": 16.0,
         "Protein": 0.7,
@@ -182,6 +200,7 @@
     {
         "id": 19,
         "Name": "Karfiol",
+        "Img": "https://images.unsplash.com/photo-1613743990305-736d763f3d70?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2F1bGlmbG93ZXJ8ZW58MHx8MHx8fDA%3D",
         "Weight": 150,
         "Calories": 25.0,
         "Protein": 2.0,
@@ -192,6 +211,7 @@
     {
         "id": 20,
         "Name": "Hagyma",
+        "Img": "https://images.unsplash.com/photo-1578907814239-d2654ba61616?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 40.0,
         "Protein": 1.0,
@@ -202,6 +222,7 @@
     {
         "id": 21,
         "Name": "Tök",
+        "Img": "https://images.unsplash.com/photo-1506785212-4b1c7d23a1cc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3F1YXNofGVufDB8fDB8fHww",
         "Weight": 150,
         "Calories": 45.0,
         "Protein": 1.0,
@@ -212,6 +233,7 @@
     {
         "id": 22,
         "Name": "Cukkini",
+        "Img": "https://images.unsplash.com/photo-1596056094719-10ba4f7ea650?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 17.0,
         "Protein": 1.0,
@@ -222,6 +244,7 @@
     {
         "id": 23,
         "Name": "Káposzta",
+        "Img": "https://images.unsplash.com/photo-1598030343246-eec71cb44231?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2FiYmFnZXxlbnwwfHwwfHx8MA%3D%3D",
         "Weight": 100,
         "Calories": 25.0,
         "Protein": 1.3,
@@ -232,6 +255,7 @@
     {
         "id": 24,
         "Name": "Brokkoli",
+        "Img": "https://images.unsplash.com/photo-1511410188607-eca3f2f341bf?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 35.0,
         "Protein": 2.4,
@@ -242,16 +266,18 @@
     {
         "id": 25,
         "Name": "Fokhagyma",
+        "Img": "https://images.unsplash.com/photo-1612823711171-e296662098fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z2FybGljfGVufDB8fDB8fHww",
         "Weight": 10,
         "Calories": 5.0,
         "Protein": 0.2,
         "Carbohydrate": 1.0,
-        "Fat": 0.02,
+        "Fat": 0.0,
         "Type": "Szénhidrát"
     },
     {
         "id": 26,
         "Name": "Pulykamell",
+        "Img": "https://images.pexels.com/photos/16496288/pexels-photo-16496288/free-photo-of-breakfast-egg-on-toast.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "Weight": 200,
         "Calories": 135.0,
         "Protein": 29.0,
@@ -261,7 +287,8 @@
     },
     {
         "id": 27,
-        "Name": "Hal",
+        "Name": "Herring",
+        "Img": "https://images.unsplash.com/photo-1600699899970-b1c9fadd8f9e?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 150,
         "Calories": 150.0,
         "Protein": 25.0,
@@ -272,6 +299,7 @@
     {
         "id": 28,
         "Name": "Marhahús",
+        "Img": "https://images.unsplash.com/photo-1690493253508-60b0aa579aa4?q=80&w=1196&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 200,
         "Calories": 250.0,
         "Protein": 26.0,
@@ -282,6 +310,7 @@
     {
         "id": 29,
         "Name": "Sertéshús",
+        "Img": "https://images.unsplash.com/photo-1580476262843-d5e9b687d4d4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 200,
         "Calories": 242.0,
         "Protein": 27.0,
@@ -292,6 +321,7 @@
     {
         "id": 30,
         "Name": "Túró Rudi",
+        "Img": "https://static.groby.hu/media/993/9a4/conv/Pottyos-Turo-Rudi-30-g-natur-etbevonoval-full.png",
         "Weight": 50,
         "Calories": 120.0,
         "Protein": 5.0,
@@ -302,6 +332,7 @@
     {
         "id": 31,
         "Name": "Granola",
+        "Img": "https://images.unsplash.com/photo-1622542086073-dcdc3350cc2b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3Jhbm9sYXxlbnwwfHwwfHx8MA%3D%3D",
         "Weight": 50,
         "Calories": 200.0,
         "Protein": 6.0,
@@ -312,6 +343,7 @@
     {
         "id": 32,
         "Name": "Tönkölybúza",
+        "Img": "https://images.unsplash.com/photo-1656918828529-345b77bb06e9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 340.0,
         "Protein": 14.0,
@@ -322,6 +354,7 @@
     {
         "id": 33,
         "Name": "Kefir",
+        "Img": "https://images.unsplash.com/photo-1650265929240-fbf163e0d003?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 200,
         "Calories": 100.0,
         "Protein": 6.0,
@@ -331,7 +364,8 @@
     },
     {
         "id": 34,
-        "Name": "Joghurtn",
+        "Name": "Joghurt",
+        "Img": "https://images.unsplash.com/photo-1472555794301-77353b152fb7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Sm9naHVydHxlbnwwfHwwfHx8MA%3D%3D",
         "Weight": 150,
         "Calories": 85.0,
         "Protein": 5.0,
@@ -342,6 +376,7 @@
     {
         "id": 35,
         "Name": "Tej",
+        "Img": "https://images.unsplash.com/photo-1517448931760-9bf4414148c5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 42.0,
         "Protein": 3.0,
@@ -352,6 +387,7 @@
     {
         "id": 36,
         "Name": "Füstölt lazac",
+        "Img": "https://images.unsplash.com/photo-1627308595216-439c00ade0fe?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 232.0,
         "Protein": 20.0,
@@ -362,6 +398,7 @@
     {
         "id": 37,
         "Name": "Szalámi",
+        "Img": "https://images.unsplash.com/photo-1460122109654-7e46ab4fc9b9?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 50,
         "Calories": 250.0,
         "Protein": 15.0,
@@ -372,6 +409,7 @@
     {
         "id": 38,
         "Name": "Sonka",
+        "Img": "https://images.unsplash.com/photo-1524438418049-ab2acb7aa48f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 120.0,
         "Protein": 15.0,
@@ -382,6 +420,7 @@
     {
         "id": 39,
         "Name": "Füstölt pulyka",
+        "Img": "https://images.unsplash.com/photo-1607967807285-ae1c1576cbfd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 135.0,
         "Protein": 25.0,
@@ -392,6 +431,7 @@
     {
         "id": 40,
         "Name": "Kukoricapehely",
+        "Img": "https://images.unsplash.com/photo-1521483451569-e33803c0330c?q=80&w=1985&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 30,
         "Calories": 120.0,
         "Protein": 2.0,
@@ -402,6 +442,7 @@
     {
         "id": 41,
         "Name": "Fagyi",
+        "Img": "https://images.unsplash.com/photo-1560801619-01d71da0f70c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 50,
         "Calories": 150.0,
         "Protein": 2.0,
@@ -412,6 +453,7 @@
     {
         "id": 42,
         "Name": "Chips",
+        "Img": "https://images.unsplash.com/photo-1613919113640-25732ec5e61f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 30,
         "Calories": 160.0,
         "Protein": 2.0,
@@ -422,6 +464,7 @@
     {
         "id": 43,
         "Name": "Tortilla",
+        "Img": "https://images.unsplash.com/photo-1591266123515-46149ea0b0a9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 50,
         "Calories": 150.0,
         "Protein": 4.0,
@@ -431,7 +474,8 @@
     },
     {
         "id": 44,
-        "Name": "Túró",
+        "Name": "Csoki",
+        "Img": "https://images.unsplash.com/photo-1623660053975-cf75a8be0908?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNob2NvbGF0ZXxlbnwwfHwwfHx8MA%3D%3D",
         "Weight": 100,
         "Calories": 80.0,
         "Protein": 11.0,
@@ -442,6 +486,7 @@
     {
         "id": 45,
         "Name": "Kenyér",
+        "Img": "https://images.unsplash.com/photo-1589367920969-ab8e050bbb04?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 40,
         "Calories": 100.0,
         "Protein": 3.0,
@@ -452,6 +497,7 @@
     {
         "id": 46,
         "Name": "Barack",
+        "Img": "https://images.unsplash.com/photo-1595743825637-cdafc8ad4173?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 39.0,
         "Protein": 1.0,
@@ -462,6 +508,7 @@
     {
         "id": 47,
         "Name": "Ananász",
+        "Img": "https://images.unsplash.com/photo-1589820296156-2454bb8a6ad1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 50.0,
         "Protein": 0.5,
@@ -472,6 +519,7 @@
     {
         "id": 48,
         "Name": "Mandula",
+        "Img": "https://images.unsplash.com/photo-1583126379180-ec70bb3178b1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 30,
         "Calories": 170.0,
         "Protein": 6.0,
@@ -482,6 +530,7 @@
     {
         "id": 49,
         "Name": "Dió",
+        "Img": "https://images.unsplash.com/photo-1524593656068-fbac72624bb0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 30,
         "Calories": 200.0,
         "Protein": 5.0,
@@ -492,6 +541,7 @@
     {
         "id": 50,
         "Name": "Füge",
+        "Img": "https://images.unsplash.com/photo-1557837201-38eaf28b3031?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 74.0,
         "Protein": 0.8,
@@ -502,6 +552,7 @@
     {
         "id": 51,
         "Name": "Földimogyoró",
+        "Img": "https://images.unsplash.com/photo-1524594345772-c953a3ae53e8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 30,
         "Calories": 170.0,
         "Protein": 7.0,
@@ -512,6 +563,7 @@
     {
         "id": 52,
         "Name": "Mogyoró",
+        "Img": "https://images.unsplash.com/photo-1635843130314-c0b5cc832b79?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 30,
         "Calories": 180.0,
         "Protein": 5.0,
@@ -521,7 +573,8 @@
     },
     {
         "id": 53,
-        "Name": "Törökmogyoró",
+        "Name": "Méz",
+        "Img": "https://images.unsplash.com/photo-1587049352851-8d4e89133924?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 30,
         "Calories": 170.0,
         "Protein": 6.0,
@@ -531,7 +584,8 @@
     },
     {
         "id": 54,
-        "Name": "Csonthéjas gyümölcsök",
+        "Name": "Narancs",
+        "Img": "https://images.unsplash.com/photo-1582979512210-99b6a53386f9?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 80.0,
         "Protein": 2.0,
@@ -541,7 +595,8 @@
     },
     {
         "id": 55,
-        "Name": "Kókuszreszelék",
+        "Name": "Kókusz",
+        "Img": "https://images.unsplash.com/photo-1588413333412-82148535db53?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGNvY29udXR8ZW58MHx8MHx8fDI%3D",
         "Weight": 30,
         "Calories": 200.0,
         "Protein": 2.0,
@@ -552,6 +607,7 @@
     {
         "id": 56,
         "Name": "Rántott csirke",
+        "Img": "https://images.unsplash.com/photo-1597652096872-658bf24731ec?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 200,
         "Calories": 350.0,
         "Protein": 28.0,
@@ -562,6 +618,7 @@
     {
         "id": 57,
         "Name": "Tészta",
+        "Img": "https://images.unsplash.com/photo-1551462147-ff29053bfc14?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGFzdGF8ZW58MHx8MHx8fDI%3D",
         "Weight": 100,
         "Calories": 160.0,
         "Protein": 5.0,
@@ -571,7 +628,8 @@
     },
     {
         "id": 58,
-        "Name": "Spagetti",
+        "Name": "Eper",
+        "Img": "https://images.unsplash.com/photo-1549007953-2f2dc0b24019?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 130.0,
         "Protein": 5.0,
@@ -582,6 +640,7 @@
     {
         "id": 59,
         "Name": "Lazac",
+        "Img": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 200.0,
         "Protein": 22.0,
@@ -592,6 +651,7 @@
     {
         "id": 60,
         "Name": "Szardínia",
+        "Img": "https://images.unsplash.com/photo-1535424921017-85119f91e5a1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 150.0,
         "Protein": 20.0,
@@ -602,6 +662,7 @@
     {
         "id": 61,
         "Name": "Zabpehely",
+        "Img": "https://images.unsplash.com/photo-1510776478953-fa4dc5de04ca?q=80&w=1743&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 389.0,
         "Protein": 13.0,
@@ -611,7 +672,8 @@
     },
     {
         "id": 62,
-        "Name": "Lencse",
+        "Name": "Áfonya",
+        "Img": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 116.0,
         "Protein": 9.0,
@@ -622,6 +684,7 @@
     {
         "id": 63,
         "Name": "Quinoa",
+        "Img": "https://images.unsplash.com/photo-1586201375799-47cd24c3f595?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 120.0,
         "Protein": 4.0,
@@ -632,6 +695,7 @@
     {
         "id": 64,
         "Name": "Búzaliszt",
+        "Img": "https://images.unsplash.com/photo-1610725664285-7c57e6eeac3f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 340.0,
         "Protein": 10.0,
@@ -642,6 +706,7 @@
     {
         "id": 65,
         "Name": "Rukkola",
+        "Img": "https://images.unsplash.com/photo-1537215781824-73d7761029e1?q=80&w=2028&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 50,
         "Calories": 10.0,
         "Protein": 0.8,
@@ -651,7 +716,8 @@
     },
     {
         "id": 66,
-        "Name": "Lilahagyma",
+        "Name": "Citrom",
+        "Img": "https://images.unsplash.com/photo-1590502593747-42a996133562?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGVtb258ZW58MHx8MHx8fDA%3D",
         "Weight": 100,
         "Calories": 40.0,
         "Protein": 1.2,
@@ -662,6 +728,7 @@
     {
         "id": 67,
         "Name": "Torma",
+        "Img": "https://cdn2.hubspot.net/hubfs/334586/horseradishroot.jpg",
         "Weight": 100,
         "Calories": 50.0,
         "Protein": 1.4,
@@ -672,6 +739,7 @@
     {
         "id": 68,
         "Name": "Sárgarépa",
+        "Img": "https://images.unsplash.com/photo-1633380110125-f6e685676160?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNhcnJvdHxlbnwwfHwwfHx8Mg%3D%3D",
         "Weight": 100,
         "Calories": 41.0,
         "Protein": 1.0,
@@ -682,6 +750,7 @@
     {
         "id": 69,
         "Name": "Petrezselyem",
+        "Img": "https://images.unsplash.com/photo-1588879460618-9249e7d947d1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 36.0,
         "Protein": 3.0,
@@ -692,6 +761,7 @@
     {
         "id": 70,
         "Name": "Borsó",
+        "Img": "https://images.unsplash.com/photo-1592394533824-9440e5d68530?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 81.0,
         "Protein": 5.0,
@@ -702,6 +772,7 @@
     {
         "id": 71,
         "Name": "Főtt tojás",
+        "Img": "https://images.unsplash.com/photo-1617611647086-bccca8c2cf84?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 50,
         "Calories": 77.0,
         "Protein": 6.3,
@@ -712,6 +783,7 @@
     {
         "id": 72,
         "Name": "Zöldségköret",
+        "Img": "https://images.unsplash.com/photo-1501688356053-ee4bf6c4bffc?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 150,
         "Calories": 75.0,
         "Protein": 3.0,
@@ -722,6 +794,7 @@
     {
         "id": 73,
         "Name": "Rántott sajt",
+        "Img": "https://images.unsplash.com/photo-1728468314335-3f973a10e53d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 300.0,
         "Protein": 12.0,
@@ -732,6 +805,7 @@
     {
         "id": 74,
         "Name": "Sült krumpli",
+        "Img": "https://images.unsplash.com/photo-1585109649139-366815a0d713?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 312.0,
         "Protein": 3.0,
@@ -742,6 +816,7 @@
     {
         "id": 75,
         "Name": "Grill csirke",
+        "Img": "https://images.unsplash.com/photo-1592011432621-f7f576f44484?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 150,
         "Calories": 200.0,
         "Protein": 30.0,
@@ -751,7 +826,8 @@
     },
     {
         "id": 76,
-        "Name": "Főtt rizs",
+        "Name": "Krekker",
+        "Img": "https://images.unsplash.com/photo-1560242565-48cea3141b4f?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 130.0,
         "Protein": 2.7,
@@ -762,6 +838,7 @@
     {
         "id": 77,
         "Name": "Száraz kolbász",
+        "Img": "https://images.unsplash.com/photo-1529241160658-a8a2a0d86620?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 50,
         "Calories": 200.0,
         "Protein": 15.0,
@@ -772,6 +849,7 @@
     {
         "id": 78,
         "Name": "Pisztráng",
+        "Img": "https://images.unsplash.com/photo-1612456534865-1be5c8d2f8f1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 140.0,
         "Protein": 20.0,
@@ -782,6 +860,7 @@
     {
         "id": 79,
         "Name": "Húsleves",
+        "Img": "https://images.unsplash.com/photo-1612966948332-81d747414a8f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 250,
         "Calories": 100.0,
         "Protein": 10.0,
@@ -791,7 +870,8 @@
     },
     {
         "id": 80,
-        "Name": "Sült hal",
+        "Name": "Dinnye",
+        "Img": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 250.0,
         "Protein": 20.0,
@@ -802,6 +882,7 @@
     {
         "id": 81,
         "Name": "Sült zöldség",
+        "Img": "https://images.unsplash.com/photo-1548869206-93b036288d7e?q=80&w=1990&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 150,
         "Calories": 150.0,
         "Protein": 3.0,
@@ -812,6 +893,7 @@
     {
         "id": 82,
         "Name": "Sült pulyka",
+        "Img": "https://images.unsplash.com/photo-1574672281194-db420378032d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9hc3QlMjB0dXJrZXl8ZW58MHx8MHx8fDI%3D",
         "Weight": 150,
         "Calories": 250.0,
         "Protein": 30.0,
@@ -821,7 +903,8 @@
     },
     {
         "id": 83,
-        "Name": "Túró",
+        "Name": "Bab",
+        "Img": "https://images.unsplash.com/photo-1613758235402-745466bb7efe?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 98.0,
         "Protein": 11.0,
@@ -832,6 +915,7 @@
     {
         "id": 84,
         "Name": "Céklasaláta",
+        "Img": "https://images.unsplash.com/photo-1625937751461-9c5e7d90bfe1?q=80&w=1941&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 150,
         "Calories": 90.0,
         "Protein": 2.0,
@@ -841,7 +925,8 @@
     },
     {
         "id": 85,
-        "Name": "Joghurt",
+        "Name": "Kelbimbó",
+        "Img": "https://images.unsplash.com/photo-1607189760730-a330bf941e9c?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 59.0,
         "Protein": 4.0,
@@ -852,6 +937,7 @@
     {
         "id": 86,
         "Name": "Rizseshús",
+        "Img": "https://images.unsplash.com/photo-1673646961623-40914a7e1932?q=80&w=2107&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 150,
         "Calories": 320.0,
         "Protein": 25.0,
@@ -862,6 +948,7 @@
     {
         "id": 87,
         "Name": "Sült burgonya",
+        "Img": "https://images.unsplash.com/photo-1537786090555-3ae8e11b1d4d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 200.0,
         "Protein": 3.0,
@@ -872,6 +959,7 @@
     {
         "id": 88,
         "Name": "Sült édesburgonya",
+        "Img": "https://images.unsplash.com/photo-1541809570-35dcc3a080c8?q=80&w=1325&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 100.0,
         "Protein": 2.0,
@@ -882,6 +970,7 @@
     {
         "id": 89,
         "Name": "Fűszeres csirke",
+        "Img": "https://images.unsplash.com/photo-1619221881739-40de2afeaa7d?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 150,
         "Calories": 220.0,
         "Protein": 30.0,
@@ -892,6 +981,7 @@
     {
         "id": 90,
         "Name": "Tzatziki",
+        "Img": "https://images.unsplash.com/photo-1591120583691-49d2741e55da?q=80&w=1336&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 50.0,
         "Protein": 3.0,
@@ -901,7 +991,8 @@
     },
     {
         "id": 91,
-        "Name": "Fokhagyma",
+        "Name": "Szilva",
+        "Img": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 10,
         "Calories": 5.0,
         "Protein": 0.2,
@@ -911,7 +1002,8 @@
     },
     {
         "id": 92,
-        "Name": "Túrós batyu",
+        "Name": "Almás pite",
+        "Img": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXBwbGUlMjBwaWV8ZW58MHx8MHx8fDA%3D",
         "Weight": 120,
         "Calories": 250.0,
         "Protein": 8.0,
@@ -922,6 +1014,7 @@
     {
         "id": 93,
         "Name": "Fahéjas alma",
+        "Img": "https://images.unsplash.com/photo-1603777953672-2fc2e32d4076?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 52.0,
         "Protein": 0.3,
@@ -931,7 +1024,8 @@
     },
     {
         "id": 94,
-        "Name": "Dió",
+        "Name": "Datoja",
+        "Img": "https://images.unsplash.com/photo-1614061811858-dde54a522f5e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZGF0ZXN8ZW58MHx8MHx8fDA%3D",
         "Weight": 30,
         "Calories": 180.0,
         "Protein": 4.0,
@@ -941,7 +1035,8 @@
     },
     {
         "id": 95,
-        "Name": "Földimogyoróvaj",
+        "Name": "Paradicsom saláta",
+        "Img": "https://images.unsplash.com/photo-1610817153377-e54299ffdb1e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dG9tYXRvJTIwc2FsYWR8ZW58MHx8MHx8fDA%3D",
         "Weight": 30,
         "Calories": 190.0,
         "Protein": 8.0,
@@ -951,7 +1046,8 @@
     },
     {
         "id": 96,
-        "Name": "Alma",
+        "Name": "Mac n cheese",
+        "Img": "https://images.unsplash.com/photo-1607546965882-e025ff0edc61?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 52.0,
         "Protein": 0.3,
@@ -961,7 +1057,8 @@
     },
     {
         "id": 97,
-        "Name": "Banán",
+        "Name": "Penészes sajt",
+        "Img": "https://images.unsplash.com/photo-1626957341926-98752fc2ba90?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 89.0,
         "Protein": 1.1,
@@ -971,7 +1068,8 @@
     },
     {
         "id": 98,
-        "Name": "Szőlő",
+        "Name": "Steak",
+        "Img": "https://images.unsplash.com/photo-1600891964092-4316c288032e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 69.0,
         "Protein": 0.7,
@@ -982,6 +1080,7 @@
     {
         "id": 99,
         "Name": "Mangó",
+        "Img": "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFuZ298ZW58MHx8MHx8fDA%3D",
         "Weight": 100,
         "Calories": 60.0,
         "Protein": 0.8,
@@ -992,6 +1091,7 @@
     {
         "id": 100,
         "Name": "Kivi",
+        "Img": "https://images.unsplash.com/photo-1585059895524-72359e06133a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "Weight": 100,
         "Calories": 61.0,
         "Protein": 1.1,
