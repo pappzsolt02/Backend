@@ -9,13 +9,14 @@ class UserInfo extends Model
     protected $table = 'userInfo';
 
     protected $fillable = [
+        'user_id',
         'height',
-        'weight',
-        'user_id'
+        'weight'
     ];
 
-    // 1-> N
-    public function user() {
-        return $this->belongsTo(User::class,'user_id','id');
+    // 1 -> N
+    public function user()
+    {
+        return $this->belongsTo(User::class, 'user_id', 'id');
     }
 }

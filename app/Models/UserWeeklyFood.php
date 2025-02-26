@@ -15,7 +15,7 @@ class UserWeeklyFood extends Model
 
     protected $fillable = [
         'user_id',
-        'food_id',
+        'foods_id',
         'date',
         'dayOfWeek',
         'mealType',
@@ -24,4 +24,15 @@ class UserWeeklyFood extends Model
         'dailyCalorieTarget',
         'dailyProteinTarget'
     ];
+
+    // 1 -> N
+    public function user()
+    {
+        return $this->belongsTo(User::class, 'user_id', 'id');
+    }
+
+    public function food()
+    {
+        return $this->belongsTo(Foods::class, 'food_id', 'id');
+    }
 }

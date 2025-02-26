@@ -23,4 +23,10 @@ class Foods extends Model
         'fat',
         'type',
     ];
+
+    // 1 -> N
+    public function userWeeklyFood()
+    {
+        return $this->hasMany(UserWeeklyFood::class);
+    }
 }

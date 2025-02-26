@@ -33,34 +33,6 @@ class UserInfoController extends BaseController
     }
 
 
-    // // Update the user's info
-    // public function update(Request $request)
-    // {
-    //     $userId = Auth::id(); // Get the logged-in user ID
+    // Update the user's info
 
-    //     // Validate incoming data
-    //     $validator = Validator::make($request->all(), [
-    //         'Height' => 'required|numeric|min:50|max:300',
-    //         'Weight' => 'required|numeric|min:20|max:500',
-    //     ]);
-
-    //     if ($validator->fails()) {
-    //         return $this->sendError('Validation Error', $validator->errors());
-    //     }
-
-    //     $userInfo = UserInfo::where('UserID', $userId)->first();
-
-    //     // If user info does not exist, create a new record
-    //     if (!$userInfo) {
-    //         $userInfo = new UserInfo();
-    //         $userInfo->UserID = $userId;
-    //     }
-
-    //     // Update or create user info
-    //     $userInfo->Height = $request->input('Height');
-    //     $userInfo->Weight = $request->input('Weight');
-    //     $userInfo->save();
-
-    //     return $this->sendResponse($userInfo, 'User info updated successfully.');
-    // }
 }
