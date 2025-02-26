@@ -15,16 +15,16 @@ class FoodController extends BaseController
         $perPage = $request->input('per_page', 12);
 
         // Retrieve the records by paging
-        $workouts = Foods::paginate($perPage);
+        $foods = Foods::paginate($perPage);
 
         // Return a response
-        return response()->json($workouts);
+        return response()->json($foods);
     }
 
-    // // Get a specific food by ID
-    public function food($id)
+    // // Get a specific food by type
+    public function food($type)
     {
-        $food = Foods::find($id);
+        $food = Foods::find($type);
 
         if (!$food) {
             return response()->json(['message' => 'Food not found'], 404);
