@@ -24,10 +24,10 @@ class FoodController extends BaseController
     // // Get a specific food by type
     public function food($type)
     {
-        $food = Foods::find($type);
+        $food = Foods::where('type', $type)->get();
 
-        if (!$food) {
-            return response()->json(['message' => 'Food not found'], 404);
+        if (!$food->empty()) {
+            return response()->json(['message' => 'Nincs ilyen típusú étek'], 404);
         }
 
         return response()->json($food);
