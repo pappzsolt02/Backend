@@ -13,12 +13,13 @@ class FoodController extends BaseController
         try {
             // Oldalankénti elemek száma
             $perPage = $request->input('per_page', 12);
+            $page = $request->input('page', 1);
 
             // Lekérdezés építése
             $query = Foods::query();
 
             $foods = $query
-                ->paginate($perPage);
+                ->paginate($perPage, ['*'], 'page', $page);
 
             return response()->json([
                 'data' => $foods->items(),

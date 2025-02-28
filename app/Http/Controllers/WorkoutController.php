@@ -13,12 +13,13 @@ class WorkoutController extends Controller
         try {
             // Oldalakénti elemek száma
             $perPage = $request->input('per_page', 9);
+            $page = $request->input('page', 1);
 
             // Lezárdezés építése
             $query = Workout::query();
 
             $workouts = $query
-                ->paginate($perPage);
+                ->paginate($perPage, ['*'], 'page', $page);
 
             return response()->json([
                 'data' => $workouts->items(),
@@ -35,7 +36,8 @@ class WorkoutController extends Controller
     }
 
     //Get a specific workout by Muscle Group
-    public function workout($muscleGroup) {
+    public function workout($muscleGroup)
+    {
         $workout = Workout::where('muscleGroup', $muscleGroup)->get();
 
         if ($workout->isEmpty()) {
