@@ -21,7 +21,7 @@ Route::get('foods', [FoodController::class, 'foods']);
 Route::get('foods/{type}', [FoodController::class, 'food']);
 
 Route::get('workouts', [WorkoutController::class, 'workouts']);
-Route::get('workout/{id}', [WorkoutController::class, 'workout']);
+Route::get('workout/{musclegroup}', [WorkoutController::class, 'workout']);
 
 Route::any('have-to-login', function () {
     // return response()->json('Bejelentkezés szükséges',401);

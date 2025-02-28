@@ -10,22 +10,36 @@ class WorkoutController extends Controller
     //Get all workouts with pagination
     public function workouts(Request $request)
     {
-        // Define how many records you want to display on a page
-        $perPage = $request->input('per_page', 9);
-        // Retrieve the records by paging
-        $workouts = Workout::paginate($perPage);
+        try {
+            // Oldalakénti elemek száma
+            $perPage = $request->input('per_page', 9);
 
-        // Return a response
-        return response()->json($workouts);
+            // Lezárdezés építése
+            $query = Workout::query();
+
+            $workouts = $query
+                ->paginate($perPage);
+
+            return response()->json([
+                'data' => $workouts->items(),
+                'pagination' => [
+                    'current_page' => $workouts->currentPage(),
+                    'per_page' => $workouts->perPage(),
+                    'total' => $workouts->total(),
+                    'last_page' => $workouts->lastPage(),
+                ],
+            ]);
+        } catch (\Exception $e) {
+            return response()->json(['message' => 'Error while fetching data'], 500);
+        }
     }
 
-    //Get a specific workout by ID
-    public function workout($id)
-    {
-        $workout = Workout::find($id);
+    //Get a specific workout by Muscle Group
+    public function workout($muscleGroup) {
+        $workout = Workout::where('muscleGroup', $muscleGroup)->get();
 
-        if (!$workout) {
-            return response()->json(['message' => 'Workout not found'], 404);
+        if ($workout->isEmpty()) {
+            return response()->json(['message' => 'No workout found for this muscle group'], 404);
         }
 
         return response()->json($workout);

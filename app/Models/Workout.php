@@ -14,10 +14,10 @@ class Workout extends Model
     public $timestamps = false;
 
     protected $fillable = [
-        'MuscleGroup',
-        'Name',
-        'ShortDescription',
-        'Description',
-        'Equipment',
+        'muscleGroup',
+        'name',
+        'shortDescription',
+        'description',
+        'equipment',
     ];
 }
