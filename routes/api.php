@@ -31,7 +31,8 @@ Route::any('have-to-login', function () {
 
 Route::middleware('auth:sanctum')->group(function () {
     Route::post('logout', [AuthController::class, 'logout']);
-    Route::resource('info',UserInfoController::class, ['execpt' => 'index']);
+    Route::resource('user-info',UserInfoController::class, ['execpt' => 'index']);
+    Route::resource('user-info-patch', UserInfoController::class);
     Route::resource('user-weekly-foods', UserWeeklyFoodsController::class);
 
 });

@@ -12,7 +12,7 @@ class CreateWorkoutsTable extends Migration
             $table->id();
             $table->enum('muscleGroup', ['Mellkas', 'Hát', 'Lábak', 'Karok', 'Vállak', 'Has']);  // Enum column
             $table->string('name');
-            $table->string('shortDescription');
+            $table->string('img');
             $table->text('description');
             $table->string('equipment');
         });

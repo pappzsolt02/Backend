@@ -62,7 +62,7 @@ class DatabaseSeeder extends Seeder
             Workout::create([
                 'MuscleGroup' => $value->MuscleGroup,
                 'Name' => $value->Name,
-                'ShortDescription' => $value->ShortDescription,
+                'Img' => $value->Img,
                 'Description' => $value->Description,
                 'Equipment' => $value->Equipment,
             ]);

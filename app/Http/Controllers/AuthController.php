@@ -84,10 +84,4 @@ class AuthController extends BaseController
         auth()->user()->tokens()->delete();
         return $this->sendResponse('', 'Sikeres kijelentkezés');
     }
-
-    public function foods()
-    {
-        $foods = Foods::all();
-        return response()->json($foods);
-    }
 }

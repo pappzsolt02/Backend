@@ -3,7 +3,7 @@
         "id": 1,
         "MuscleGroup": "Mellkas",
         "Name": "Fekvenyomás",
-        "ShortDescription": "Alapvető mellkas gyakorlat",
+        "Img": "https://img.freepik.com/free-photo/focused-man-doing-workout-weight-bench_329181-14155.jpg?t=st=1740467966~exp=1740471566~hmac=d63cc18e21e2e46e20bf6da63c3c7ccaeb6b16cdccf201843b06adc049e59b94&w=996",
         "Description": "A fekvenyomás segít a mellkas, a vállak és a tricepsz erősítésében. Fekve nyomunk egy súlyt, miközben a lábak a padlón vannak.",
         "Equipment": "Súlyzó, pad"
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "MuscleGroup": "Hát",
         "Name": "Húzódzkodás",
-        "ShortDescription": "Erősítő gyakorlat a hátra",
+        "Img": "https://img.freepik.com/free-photo/concept-power-strength-healthy-lifestyle-sport-powerful-attractive-muscular-man-gym_155003-4993.jpg?t=st=1740468087~exp=1740471687~hmac=3a05a2a03fe8b30797903d5570cfae4eb48604453347423d1c3751790e9f65c9&w=996",
         "Description": "A húzódzkodás a hátizmokat célozza, különösen a széles hátizmokat. A testet felfelé húzva fejleszthetjük a felsőtest erősségét.",
         "Equipment": "Súlyzó"
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "MuscleGroup": "Lábak",
         "Name": "Guggolás",
-        "ShortDescription": "Teljes láb edzés",
+        "Img": "https://img.freepik.com/free-photo/close-up-man-doing-crossfit-workout_23-2149080463.jpg?t=st=1740475442~exp=1740479042~hmac=3d992b80c86a940a52aca6db4d1dff82879b9b407382363f577763124f55c9e2&w=996",
         "Description": "A guggolás a lábak, a fenék és a törzs erősítésére szolgáló alapgyakorlat, amely fokozza az alsótest erejét és mobilitását.",
         "Equipment": "Súlyzó"
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "MuscleGroup": "Karok",
         "Name": "Bicepsz hajlítás",
-        "ShortDescription": "Alap bicepsz gyakorlat",
+        "Img": "https://img.freepik.com/free-photo/muscle-hand-male-healthy-arm_1296-382.jpg?ga=GA1.1.720189555.1740467908&semt=ais_hybrid",
         "Description": "A bicepsz hajlítás a kar izmainak erősítésére szolgál. Ezt a gyakorlatot végezhetjük kézi súlyzókkal vagy rúddal.",
         "Equipment": "Súlyzó"
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "MuscleGroup": "Vállak",
         "Name": "Vállprés",
-        "ShortDescription": "Váll erősítő gyakorlat",
+        "Img": "https://img.freepik.com/free-photo/medium-shot-fit-man-training-with-kettlebells_23-2149358128.jpg?t=st=1740469848~exp=1740473448~hmac=ab78eca04ade2936aae14702e3274d81a7f296946545f8b08253700809075ed6&w=740",
         "Description": "A vállprés a váll izmainak fejlesztésére összpontosít, különösen a deltoid izmokra. A gyakorlat súlyzókkal vagy rúddal végezhető.",
         "Equipment": "Súlyzó, rúd"
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "MuscleGroup": "Has",
         "Name": "Hasprés",
-        "ShortDescription": "Alap hasizom gyakorlat",
+        "Img": "https://img.freepik.com/free-photo/fitness-man_23-2148137680.jpg?ga=GA1.1.720189555.1740467908&semt=ais_hybrid",
         "Description": "A hasprés segít erősíteni a hasizmokat. Végezhetjük egy fitness labdával vagy padon fekve.",
         "Equipment": "Fitness labda"
     },
@@ -51,7 +51,7 @@
         "id": 7,
         "MuscleGroup": "Mellkas",
         "Name": "Ferde fekvenyomás",
-        "ShortDescription": "Ferde padon végzett fekvenyomás",
+        "Img": "https://img.freepik.com/free-photo/lifting-strength-fitness-guy-man_1139-689.jpg?t=st=1740468662~exp=1740472262~hmac=34bf627113a3f2af00af8ce866f6e3f5b7d0e84a8cb635cdc2a867916a0b1efe&w=996",
         "Description": "A ferde fekvenyomás a felső mellkas izmokra koncentrál, és súlyzókkal vagy rúddal végezhető.",
         "Equipment": "Súlyzó, ferde pad"
     },
@@ -59,7 +59,7 @@
         "id": 8,
         "MuscleGroup": "Hát",
         "Name": "Evezés",
-        "ShortDescription": "Hátizom erősítő gyakorlat",
+        "Img": "https://img.freepik.com/free-photo/man-using-press-machine-fitness-club_155003-2294.jpg?t=st=1740468727~exp=1740472327~hmac=a5e4493e1b109dca125590c88ae54e4322bd7c88ef4bd23e156f1ae5d4c8d774&w=996",
         "Description": "Az evezés segít erősíteni a hátizmokat, különösen a középső hátat. Használhatunk súlyzót vagy gépet.",
         "Equipment": "Súlyzó, gép"
     },
@@ -67,7 +67,7 @@
         "id": 9,
         "MuscleGroup": "Lábak",
         "Name": "Lábnyújtás",
-        "ShortDescription": "Quadriceps edzés",
+        "Img": "https://img.freepik.com/free-photo/pretty-woman-working-her-quads-machine-press-gym_231208-3396.jpg?ga=GA1.1.720189555.1740467908&semt=ais_hybrid",
         "Description": "A lábnyújtás elsősorban a quadriceps izmot célozza meg. Ezt a gyakorlatot gépen végezhetjük.",
         "Equipment": "Gép"
     },
@@ -75,7 +75,7 @@
         "id": 10,
         "MuscleGroup": "Karok",
         "Name": "Tricepsz lenyomás",
-        "ShortDescription": "Tricepsz erősítő gyakorlat",
+        "Img": "https://img.freepik.com/free-photo/young-sports-man-training-gym_1303-20724.jpg?t=st=1740469421~exp=1740473021~hmac=56caa87539e35bf9c0b575a63a82205fcdb1bb32949bfb76af5a5464db58a638&w=996",
         "Description": "A tricepsz lenyomás a tricepsz izmait célozza, súlyzóval vagy gépen végezhető.",
         "Equipment": "Súlyzó, gép"
     },
@@ -83,7 +83,7 @@
         "id": 11,
         "MuscleGroup": "Vállak",
         "Name": "Oldalemelés",
-        "ShortDescription": "Vállizmok oldalirányú erősítése",
+        "Img": "https://img.freepik.com/free-photo/young-man-making-sport-exercises-home_1328-3079.jpg?t=st=1740468480~exp=1740472080~hmac=49e12f5a45edca351dcb55842914b8b46d2bdfcce9c3952a9abd03bc5905baf3&w=996",
         "Description": "Az oldalemelés a deltoid izmokat célozza, különösen a vállak oldalát.",
         "Equipment": "Súlyzó"
     },
@@ -91,7 +91,7 @@
         "id": 12,
         "MuscleGroup": "Has",
         "Name": "Plank",
-        "ShortDescription": "Statikus hasizom gyakorlat",
+        "Img": "https://img.freepik.com/free-photo/young-sportsman-doing-plank-exercise-fitness-mat_171337-11687.jpg?t=st=1740470188~exp=1740473788~hmac=6f71cb8b4c06392a49d6b11267a5b049af22eff07484ecba8a1d76ce9c3caf39&w=996",
         "Description": "A plank segít a törzs stabilizálásában és erősíti a hasizmokat. Különböző variációk léteznek, mint a könyökléses vagy karos plank.",
         "Equipment": "Nincs"
     },
@@ -99,7 +99,7 @@
         "id": 13,
         "MuscleGroup": "Mellkas",
         "Name": "Tolódzkodás",
-        "ShortDescription": "Alap mellkas és tricepsz gyakorlat",
+        "Img": "https://img.freepik.com/free-photo/strong-tattooed-white-unlabeled-tank-t-shirt-male-athlete-shows-calisthenic-moves-holding-dip-position-parallel-bars_346278-1591.jpg?ga=GA1.1.720189555.1740467908&semt=ais_hybrid",
         "Description": "A tolódzkodás a mellkas, a tricepsz és a vállak erősítésére szolgál. Végezhető saját testsúlyjal vagy extra súllyal.",
         "Equipment": "Súlyzó"
     },
@@ -107,7 +107,7 @@
         "id": 14,
         "MuscleGroup": "Hát",
         "Name": "Deadlift",
-        "ShortDescription": "Erőteljes hát- és lábgyakorlat",
+        "Img": "https://img.freepik.com/free-photo/practicing-deadlift-technique_1098-14357.jpg?t=st=1740470277~exp=1740473877~hmac=24d0179273abf3f2f78c1c2c63485d375f4f8be519fcb4cb8cdfea6d2590324e&w=996",
         "Description": "A deadlift egy összetett gyakorlat, amely erősíti a hát alsó részét, a feneket és a lábakat.",
         "Equipment": "Rúd"
     },
@@ -115,7 +115,7 @@
         "id": 15,
         "MuscleGroup": "Lábak",
         "Name": "Lábtoló",
-        "ShortDescription": "Lábizmok erősítése",
+        "Img": "https://img.freepik.com/free-photo/handsome-man-is-engaged-gym_1157-29935.jpg?t=st=1740469097~exp=1740472697~hmac=0f1a1e91981efae3d592d244bd59e97858210c0989953bd111979669e62b1199&w=996",
         "Description": "A lábtoló segít a quadriceps és a combizmok erősítésében. A gépen végezhető gyakorlat.",
         "Equipment": "Gép"
     },
@@ -123,7 +123,7 @@
         "id": 16,
         "MuscleGroup": "Karok",
         "Name": "Bicepsz hajlítás rúddal",
-        "ShortDescription": "Bicepsz erősítés rúddal",
+        "Img": "https://img.freepik.com/free-photo/portrait-male-powerlifting-gym_23-2148603825.jpg?t=st=1740471203~exp=1740474803~hmac=a981596175928cf8c9d3ececd27b6f4dc22943cf19136f1af169b64d5b3108b6&w=740",
         "Description": "A bicepsz hajlítás rúd segítségével történik, ami lehetővé teszi a nagyobb súlyok használatát.",
         "Equipment": "Rúd"
     },
@@ -131,7 +131,7 @@
         "id": 17,
         "MuscleGroup": "Vállak",
         "Name": "Arnold nyomás",
-        "ShortDescription": "Váll edzés súlyzóval",
+        "Img": "https://img.freepik.com/free-photo/full-shot-man-training-with-kettlebell_23-2149358217.jpg?t=st=1740471788~exp=1740475388~hmac=17ddf19bac85efdbbace2c415f549051c5a0a2ad6ef06103eae6a9f660a4d81f&w=740",
         "Description": "Az Arnold nyomás a vállak teljes fejlesztésére szolgál. A súlyzókat forgatva végezhetjük.",
         "Equipment": "Súlyzó"
     },
@@ -139,7 +139,7 @@
         "id": 18,
         "MuscleGroup": "Has",
         "Name": "Kerékpározás hasprés",
-        "ShortDescription": "Dinamikus hasizom gyakorlat",
+        "Img": "https://img.freepik.com/free-photo/strong-woman-with-athletic-body-doing-bicycle-crunches-home-her-high-intensity-interval-training-program_662251-1463.jpg?ga=GA1.1.720189555.1740467908&semt=ais_hybrid",
         "Description": "A kerékpározás hasprés a hasizmok erősítésére szolgál, miközben a törzset is stabilizálja.",
         "Equipment": "Nincs"
     },
@@ -147,7 +147,7 @@
         "id": 19,
         "MuscleGroup": "Mellkas",
         "Name": "Dumbbell Fly",
-        "ShortDescription": "Mellkas izom kinyitása",
+        "Img": "https://img.freepik.com/free-photo/athlete-working-out_1098-14447.jpg?t=st=1740472086~exp=1740475686~hmac=7306eb1449c3ca734a9b36b946f66a7b9faad8847d30f9c6605d29fee1e5973b&w=996",
         "Description": "A Dumbbell Fly gyakorlat segít a mellkas izomzatának kinyitásában és erősítésében, miközben a vállakat is célba veszi.",
         "Equipment": "Súlyzó"
     },
@@ -155,15 +155,15 @@
         "id": 20,
         "MuscleGroup": "Hát",
         "Name": "T-rúd evezés",
-        "ShortDescription": "Hátizom erősítés",
+        "Img": "https://motionsports.de/cdn/shop/files/VF24_LIFESTYLE_PL-FW_INCLINE-LEVER-ROW_male_pulling-upwards_front-angle.jpg?v=1721754109&width=2048",
         "Description": "A T-rúd evezés segít a hátizmok közepének erősítésében, különösen a középső hátat célozva.",
         "Equipment": "T-rúd"
     },
     {
         "id": 21,
-        "MuscleGroup": "Lábak",
-        "Name": "Lábtoló gép",
-        "ShortDescription": "Erősíti a lábakat",
+        "MuscleGroup": "Vállak",
+        "Name": "Dumbbell Lateral Raise / Súlyzós oldalemelés",
+        "Img": "",
         "Description": "A lábtoló gépen végzett gyakorlat segít fejleszteni a quadriceps, a fenék és a combizmokat.",
         "Equipment": "Lábtoló gép"
     },
@@ -171,7 +171,7 @@
         "id": 22,
         "MuscleGroup": "Karok",
         "Name": "Tricepsz nyújtás",
-        "ShortDescription": "Tricepsz izom nyújtása",
+        "Img": "https://img.freepik.com/free-photo/portrait-man-training-with-weights_23-2148603888.jpg?t=st=1740473394~exp=1740476994~hmac=b0e847e90d4aa20e6ddae451e86e73bf6d6bca587be2d4e28aa78bcebb1a3155&w=740",
         "Description": "Ez a gyakorlat a tricepsz izmainak nyújtására és erősítésére szolgál. Végezhető egy kézi súlyzóval.",
         "Equipment": "Súlyzó"
     },
@@ -179,7 +179,7 @@
         "id": 23,
         "MuscleGroup": "Vállak",
         "Name": "Vállkiemelés",
-        "ShortDescription": "Váll erősítés",
+        "Img": "",
         "Description": "A vállkiemelés a váll izmainak fejlesztésére szolgáló gyakorlat, amit súlyzóval végezhetünk.",
         "Equipment": "Súlyzó"
     },
@@ -187,7 +187,7 @@
         "id": 24,
         "MuscleGroup": "Has",
         "Name": "Lábemelés",
-        "ShortDescription": "Hasizmok erősítése",
+        "Img": "https://img.freepik.com/free-photo/beautiful-slim-brunette-doing-some-stretching-exercises-gym_155003-6525.jpg?t=st=1740473935~exp=1740477535~hmac=3a186153969a868200f3f9bb1034039fbd3aab016906d519aff9dfd4164ce911&w=996",
         "Description": "A lábemelés segít erősíteni az alsó hasizmokat. Az edzés az alsótest izmait is aktiválja.",
         "Equipment": "Nincs"
     },
@@ -195,7 +195,7 @@
         "id": 25,
         "MuscleGroup": "Mellkas",
         "Name": "Incline press",
-        "ShortDescription": "Felső mellkas edzése",
+        "Img": "https://www.puregym.com/media/shtduovg/incline-dumbbell-bench-press.jpg?quality=80",
         "Description": "A ferde fekvenyomás a felső mellkasra koncentrál, ami különösen fontos a teljes mellkas fejlesztéséhez.",
         "Equipment": "Súlyzó, ferde pad"
     },
@@ -203,7 +203,7 @@
         "id": 26,
         "MuscleGroup": "Hát",
         "Name": "Lati pull down",
-        "ShortDescription": "Széles hát edzése",
+        "Img": "https://img.freepik.com/free-photo/side-view-image-skilled-sportsman-having-arms-training-bodybuilder_549566-36.jpg?ga=GA1.1.720189555.1740467908&semt=ais_hybrid",
         "Description": "A lat pull down segít erősíteni a hát felső részét, különösen a széles hátizmokat.",
         "Equipment": "Gép"
     },
@@ -211,15 +211,15 @@
         "id": 27,
         "MuscleGroup": "Lábak",
         "Name": "Lábtolás",
-        "ShortDescription": "Alsó test erősítése",
+        "Img": "https://blogscdn.thehut.net/app/uploads/sites/48/2024/06/labtolas_1718295389.jpg",
         "Description": "A lábtolás a quadriceps és a combizmok fejlesztésére szolgáló gyakorlat, amit gépen végezhetünk.",
         "Equipment": "Gép"
     },
     {
         "id": 28,
         "MuscleGroup": "Karok",
-        "Name": "Pajzsmirigy gyakorlatok",
-        "ShortDescription": "Alkar edzés",
+        "Name": "Farmer-séta",
+        "Img": "https://lifestyle.fit/wp-content/uploads/2021/01/pasos-granjero-errores.jpg",
         "Description": "Ez a gyakorlat a karok és az alkar erősítésére szolgál, különösen az alkar izmokra összpontosítva.",
         "Equipment": "Súlyzó"
     },
@@ -227,7 +227,7 @@
         "id": 29,
         "MuscleGroup": "Vállak",
         "Name": "Felső vállprés",
-        "ShortDescription": "Váll izom erősítése",
+        "Img": "https://img.freepik.com/free-photo/close-up-man-doing-crossfit-workout_23-2149080450.jpg?t=st=1740474397~exp=1740477997~hmac=4b7e3aeff7c47b930ab05f0abbab955617cb519a7ecb3621d40e10a8b0226618&w=996",
         "Description": "A felső vállprés segít fejleszteni a vállizmokat, és növeli a vállak szélességét.",
         "Equipment": "Súlyzó"
     },
@@ -235,7 +235,7 @@
         "id": 30,
         "MuscleGroup": "Has",
         "Name": "Hasprés gép",
-        "ShortDescription": "Hasizom erősítés gépen",
+        "Img": "https://bodyleanfitness.com/cdn/shop/files/rn-image_picker_lib_temp_b52e793e-6f76-47d8-8c46-912e8880d0b5.jpg?v=1724230875&width=1946",
         "Description": "A hasprés gépen végzett gyakorlatok segítenek fejleszteni a hasizmokat és növelik a stabilitást.",
         "Equipment": "Hasprés gép"
     },
@@ -243,7 +243,7 @@
         "id": 31,
         "MuscleGroup": "Mellkas",
         "Name": "Kábeles kereszt",
-        "ShortDescription": "Mellkas kinyitás",
+        "Img": "https://img.freepik.com/free-photo/gym-strength-health-arm-muscle_1303-472.jpg?t=st=1740731077~exp=1740734677~hmac=4ae9fed313a33435883f4e78d857c5b261ecbfd53d406292898bbfcf281077cd&w=996",
         "Description": "A kábeles kereszt segít a mellkas izmainak kinyitásában és erősítésében.",
         "Equipment": "Kábeles gép"
     },
@@ -251,15 +251,15 @@
         "id": 32,
         "MuscleGroup": "Hát",
         "Name": "Szuperhúzódzkodás",
-        "ShortDescription": "Hátizom fejlesztése",
+        "Img": "https://img.freepik.com/free-photo/strong-tattooed-athlete-shows-how-calisthenic-moves-step-by-step-full-leg-rises-pull-bar-medium-position_346278-1567.jpg?t=st=1740559996~exp=1740563596~hmac=48c036dbefc4059300415a2c390ed8dc6193f2c26ed0e7d7d532ef3c1c9e9233&w=740",
         "Description": "Ez a gyakorlat erősíti a hátizmokat, különösen a széles hátakat és a bicepszet is fejleszti.",
         "Equipment": "Súlyzó"
     },
     {
         "id": 33,
         "MuscleGroup": "Lábak",
-        "Name": "Lábemelés gépen",
-        "ShortDescription": "Lábizmok fejlesztése",
+        "Name": "Ülő lábemelés",
+        "Img": "https://www.lyfta.app/_next/image?url=%2Fthumbnails%2F06891201.jpg&w=3840&q=20",
         "Description": "Ez a gépes gyakorlat segít erősíteni a lábakat, különösen a quadriceps izmokat.",
         "Equipment": "Lábemelő gép"
     },
@@ -267,7 +267,7 @@
         "id": 34,
         "MuscleGroup": "Karok",
         "Name": "Bicepsz rúddal",
-        "ShortDescription": "Bicepsz fejlesztése rúddal",
+        "Img": "https://shopbuilder.hu/images/bbcomment/files/bicepsz-franciarud.jpg",
         "Description": "A bicepsz fejlesztésére szolgáló gyakorlat, melyet súlyzóval végezhetünk.",
         "Equipment": "Rúd"
     },
@@ -275,7 +275,7 @@
         "id": 35,
         "MuscleGroup": "Vállak",
         "Name": "Váll körzés",
-        "ShortDescription": "Váll ízület karbantartás",
+        "Img": "https://steelsupplements.com/cdn/shop/articles/shutterstock_1946165155_1000x.jpg?v=1642177009",
         "Description": "A váll körzés segít megelőzni a sérüléseket és növeli a vállízület mozgástartományát.",
         "Equipment": "Nincs"
     },
@@ -283,7 +283,7 @@
         "id": 36,
         "MuscleGroup": "Has",
         "Name": "Felülés",
-        "ShortDescription": "Hasizom edzés",
+        "Img": "https://hips.hearstapps.com/hmg-prod/images/shot-of-a-young-man-completing-crunches-royalty-free-image-1678721163.jpg",
         "Description": "A felülés egy alapvető gyakorlat, amely segít erősíteni a hasizmokat.",
         "Equipment": "Nincs"
     },
@@ -291,7 +291,7 @@
         "id": 37,
         "MuscleGroup": "Mellkas",
         "Name": "Mellkas tárogatás",
-        "ShortDescription": "Mellkas és váll erősítés",
+        "Img": "https://www.puregym.com/media/brddsvhv/chest-fly-1.jpg?quality=80",
         "Description": "A tárogatás segít a mellkas és a vállak izmainak erősítésében, különösen a mellizom felső részét célozva.",
         "Equipment": "Súlyzó"
     },
@@ -299,15 +299,15 @@
         "id": 38,
         "MuscleGroup": "Hát",
         "Name": "Kézi evezés",
-        "ShortDescription": "Hátizom fejlesztése",
+        "Img": "https://img.freepik.com/free-photo/handsome-young-athlete-working-out-gym_7502-5024.jpg?t=st=1740565283~exp=1740568883~hmac=1d074aff647cf673f2244e10842cc86e1f5f8b534e761a3981fcd36f25aff73c&w=1060",
         "Description": "Ez a gyakorlat segít a hát középső részének erősítésében, különösen a váll és a hát alsó része.",
         "Equipment": "Súlyzó"
     },
     {
         "id": 39,
         "MuscleGroup": "Lábak",
-        "Name": "Lábgép",
-        "ShortDescription": "Lábizmok fejlesztése gépen",
+        "Name": "Deadlift",
+        "Img": "https://hips.hearstapps.com/hmg-prod/images/deadlift-1651142430.jpg?crop=1.00xw:0.845xh;0,0.0510xh&resize=980:*",
         "Description": "A lábgép segít a quadriceps és a gluteus izmok fejlesztésében.",
         "Equipment": "Lábgép"
     },
@@ -315,7 +315,7 @@
         "id": 40,
         "MuscleGroup": "Karok",
         "Name": "Alkar hajlítás",
-        "ShortDescription": "Alkar edzés",
+        "Img": "https://i.vimeocdn.com/video/1743600671-9c19c54eac815440c836637555fc982383217ccf66698206ad182fead700977e-d?f=webp",
         "Description": "Az alkar hajlítás segít az alkar izmainak erősítésében, és javítja a fogás erősségét.",
         "Equipment": "Súlyzó"
     },
@@ -323,7 +323,7 @@
         "id": 41,
         "MuscleGroup": "Vállak",
         "Name": "Váll forgatás",
-        "ShortDescription": "Vállízület mobilizálása",
+        "Img": "https://cdn.muscleandstrength.com/sites/default/files/internal-banded-rotation.jpg",
         "Description": "A váll forgatás segít javítani a vállízület mozgékonyságát és stabilizálja a vállakat.",
         "Equipment": "Nincs"
     },
@@ -331,7 +331,7 @@
         "id": 42,
         "MuscleGroup": "Has",
         "Name": "Váltott lábemelés",
-        "ShortDescription": "Alsó hasizom edzés",
+        "Img": "https://img.freepik.com/free-photo/fitness-man_23-2148138026.jpg?t=st=1740568533~exp=1740572133~hmac=ea57b69a060db21d2d393ce20e9ba8ea54117ab8bd013b937f8ebe40b3916d82&w=1060",
         "Description": "A váltott lábemelés erősíti az alsó hasizmokat, miközben aktiválja a csípő hajlítókat is.",
         "Equipment": "Nincs"
     },
@@ -339,7 +339,7 @@
         "id": 43,
         "MuscleGroup": "Mellkas",
         "Name": "Fekvő tárogatás",
-        "ShortDescription": "Mellizom kinyitás",
+        "Img": "https://media.post.rvohealth.io/wp-content/uploads/2020/08/11571-Incline_vs_Flat_Bench_Wha_Best_for_Your_Chest-_732x549-thumbnail-732x549.jpg",
         "Description": "A fekvő tárogatás a mellizmokat és a vállakat célozza, miközben növeli a mellkas mozgástartományát.",
         "Equipment": "Súlyzó"
     },
@@ -347,7 +347,7 @@
         "id": 44,
         "MuscleGroup": "Hát",
         "Name": "Vállpaskolás",
-        "ShortDescription": "Hát és váll edzés",
+        "Img": "https://merlinfit.com/wp-content/uploads/2023/10/Shoulder-Tap.jpg",
         "Description": "A vállpaskolás a hát és a váll izmait célozza meg, segítve az erőnlét fejlesztését.",
         "Equipment": "Súlyzó"
     },
@@ -355,7 +355,7 @@
         "id": 45,
         "MuscleGroup": "Lábak",
         "Name": "Egylábas guggolás",
-        "ShortDescription": "Láberősítés egylábas guggolással",
+        "Img": "https://gmb.io/wp-content/uploads/2023/10/unilateral-squat-1-1440x1010.webp",
         "Description": "Az egylábas guggolás a lábizmokat erősíti, különösen a quadricepset és a combhajlítókat.",
         "Equipment": "Nincs"
     },
@@ -363,7 +363,7 @@
         "id": 46,
         "MuscleGroup": "Karok",
         "Name": "Kézi súlyzóval tricepsz nyújtás",
-        "ShortDescription": "Tricepsz fejlesztése súlyzóval",
+        "Img": "https://media.post.rvohealth.io/wp-content/uploads/2021/10/overhead-tricep-extension-dumbbell-732x549-thumbnail.jpg",
         "Description": "A kézi súlyzóval végzett tricepsz nyújtás segít a tricepsz erősítésében és a kinyújtott karok dolgoztatásában.",
         "Equipment": "Súlyzó"
     },
@@ -371,15 +371,15 @@
         "id": 47,
         "MuscleGroup": "Vállak",
         "Name": "Előreemelés",
-        "ShortDescription": "Váll és felső mellkas edzés",
+        "Img": "https://cdn.muscleandstrength.com/sites/default/files/standing-dumbbell-front-raise.jpg",
         "Description": "Az előreemelés a vállak elülső részét és a mellkas felső részét célozza meg.",
         "Equipment": "Súlyzó"
     },
     {
         "id": 48,
         "MuscleGroup": "Has",
-        "Name": "Véget érő plank",
-        "ShortDescription": "Hosszan tartó törzs stabilizáló gyakorlat",
+        "Name": "plank",
+        "Img": "https://www.inspireusafoundation.org/wp-content/uploads/2023/07/plank-benefits.png",
         "Description": "A végére tartott plank segít erősíteni a törzset és a hasizmokat, miközben növeli a stabilitást.",
         "Equipment": "Nincs"
     },
@@ -387,7 +387,7 @@
         "id": 49,
         "MuscleGroup": "Mellkas",
         "Name": "Hosszú karú fekvenyomás",
-        "ShortDescription": "Fekvenyomás más formában",
+        "Img": "https://www.elitefts.com/wp/wp-content/uploads/2020/06/bench-arm-length.jpg",
         "Description": "A hosszú karú fekvenyomás segít a mellkas fejlesztésében, miközben a vállakat is megdolgoztatja.",
         "Equipment": "Rúd"
     },
@@ -395,7 +395,7 @@
         "id": 50,
         "MuscleGroup": "Hát",
         "Name": "Hátgörbítés",
-        "ShortDescription": "Hátizom erősítés",
+        "Img": "https://www.bodybuilding.com/images/2020/april/602_2.jpg",
         "Description": "A hátgörbítés egy kiváló gyakorlat a hát alsó részének erősítésére, amely szintén a feneket is dolgoztatja.",
         "Equipment": "Gép"
     },
@@ -403,7 +403,7 @@
         "id": 51,
         "MuscleGroup": "Lábak",
         "Name": "Lábemelés oldalra",
-        "ShortDescription": "Oldalsó lábizmok erősítése",
+        "Img": "https://img.freepik.com/free-photo/full-shot-woman-training-gym_23-2150340841.jpg?t=st=1740727957~exp=1740731557~hmac=58274465c32457be80f450e34602b6dce09cb32c84d598160104030a55a01a7d&w=996",
         "Description": "A lábemelés oldalra segít erősíteni a combizmokat és a gluteus medius izmokat.",
         "Equipment": "Nincs"
     },
@@ -411,15 +411,15 @@
         "id": 52,
         "MuscleGroup": "Karok",
         "Name": "Karhajlítás kábellel",
-        "ShortDescription": "Bicepsz edzés kábellel",
+        "Img": "https://www.borntough.com/cdn/shop/articles/Best_Biceps_Cable_Curls_Variations_and_Workouts.jpg?v=1655822555",
         "Description": "A karhajlítás kábellel segít fejleszteni a bicepszet és javítani a karok formáját.",
         "Equipment": "Kábeles gép"
     },
     {
         "id": 53,
         "MuscleGroup": "Vállak",
-        "Name": "Képzeletbeli vállnyomás",
-        "ShortDescription": "Váll és kar edzés",
+        "Name": "vállnyomás",
+        "Img": "https://www.lyfta.app/_next/image?url=https%3A%2F%2Flyfta.app%2Fimages%2Fexercises%2F02191101.png&w=640&q=10",
         "Description": "A képzeletbeli vállnyomás szimulálja a vállprés mozgást és segít erősíteni a vállakat.",
         "Equipment": "Súlyzó"
     },
@@ -427,7 +427,7 @@
         "id": 54,
         "MuscleGroup": "Has",
         "Name": "Biciklis hasprés",
-        "ShortDescription": "Dinamikus hasizom gyakorlat",
+        "Img": "https://img.freepik.com/free-photo/strong-woman-with-athletic-body-doing-bicycle-crunches-home-her-high-intensity-interval-training-program_662251-1463.jpg?t=st=1740728141~exp=1740731741~hmac=a67785a39eafef7a7d97767e6744f89a4dd05aa2917612ede5719fa01021c584&w=996",
         "Description": "A biciklis hasprés a hasizmok, különösen az obliques fejlesztésére szolgál.",
         "Equipment": "Nincs"
     },
@@ -435,7 +435,7 @@
         "id": 55,
         "MuscleGroup": "Mellkas",
         "Name": "Egykezes fekvenyomás",
-        "ShortDescription": "Mellkas edzés egy kézzel",
+        "Img": "https://hips.hearstapps.com/hmg-prod/images/img-2347-jpg-1574277656.jpg",
         "Description": "A fekvenyomás egy kézzel lehetővé teszi a mellkas izmainak külön-külön történő edzését, javítva a koordinációt és az erőt.",
         "Equipment": "Súlyzó"
     },
@@ -443,7 +443,7 @@
         "id": 56,
         "MuscleGroup": "Hát",
         "Name": "Térdelő húzódzkodás",
-        "ShortDescription": "Hát edzés saját testsúllyal",
+        "Img": "https://i.ytimg.com/vi/ZoxXKyeZC-A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBuGfqFKa4hltBf5a8lxgS5zUfCxw",
         "Description": "A térdelő húzódzkodás segít a hát, a bicepszek és a karok fejlesztésében.",
         "Equipment": "Súlyzó"
     },
@@ -451,7 +451,7 @@
         "id": 57,
         "MuscleGroup": "Lábak",
         "Name": "Guggolás gépen",
-        "ShortDescription": "Láb edzés gépen",
+        "Img": "https://gunsmithfitness.com/cdn/shop/articles/is-the-hack-squat-machine-legit-702382.jpg?v=1703061490&width=2048",
         "Description": "A gépen végzett guggolás segít biztonságosan dolgoztatni a lábakat, miközben csökkenti a sérülés kockázatát.",
         "Equipment": "Gép"
     },
@@ -459,15 +459,15 @@
         "id": 58,
         "MuscleGroup": "Karok",
         "Name": "Kézi súlyzó tricepsz lenyomás",
-        "ShortDescription": "Tricepsz edzés",
+        "Img": "https://www.dmoose.com/cdn/shop/articles/1_7f8efad0-3828-4eb2-bc3a-7241989e843f.jpg?v=1648740499",
         "Description": "A tricepsz lenyomás súlyzóval a tricepsz erősítésére szolgál, különösen a karok hátsó részén.",
         "Equipment": "Súlyzó"
     },
     {
         "id": 59,
         "MuscleGroup": "Vállak",
-        "Name": "Vállhúzás",
-        "ShortDescription": "Vállak és hát erősítése",
+        "Name": "Arnold súlyzós nyomás",
+        "Img": "",
         "Description": "A vállhúzás a váll izmait célozza, miközben erősíti a hátat és javítja a testtartást.",
         "Equipment": "Kábeles gép"
     },
@@ -475,7 +475,7 @@
         "id": 60,
         "MuscleGroup": "Has",
         "Name": "Felfelé néző plank",
-        "ShortDescription": "Plank alternatíva",
+        "Img": "https://media.yogauonline.com/app/uploads/2022/01/06032112/0-How-to-practice-Yogas-Upward-Plank-Pose-a-strengthening-pose-1.webp",
         "Description": "A felfelé néző plank segít a hasizmok erősítésében, miközben javítja a testtartást és stabilitást.",
         "Equipment": "Nincs"
     },
@@ -483,7 +483,7 @@
         "id": 61,
         "MuscleGroup": "Mellkas",
         "Name": "Fekvőtámasz",
-        "ShortDescription": "Alapvető mellkas edzés",
+        "Img": "https://img.freepik.com/free-photo/athletic-man-doing-push-ups_23-2148605686.jpg?t=st=1740729457~exp=1740733057~hmac=5685d2c1c9d140d5dbe21c1a232dd06ff9898d791c28f7b58f1833a8d444c87f&w=996",
         "Description": "A fekvőtámasz az egyik legjobb alapgyakorlat a mellkas, váll és tricepsz erősítésére.",
         "Equipment": "Nincs"
     },
@@ -491,15 +491,15 @@
         "id": 62,
         "MuscleGroup": "Hát",
         "Name": "Széles húzódzkodás",
-        "ShortDescription": "Széles hát fejlesztése",
+        "Img": "https://www.myprotein.com/images?url=https://blogscdn.thehut.net/app/uploads/sites/478/2024/04/Untitled-design-20_1740137087-scaled.jpg&auto=avif&width=2560&fit=crop",
         "Description": "A széles húzódzkodás a hát felső részét és a vállakat célozza, különösen a széles hátizmokat.",
         "Equipment": "Súlyzó"
     },
     {
         "id": 63,
         "MuscleGroup": "Lábak",
-        "Name": "Térdelő lábtolás",
-        "ShortDescription": "Térdelő lábtolás gépen",
+        "Name": "visszintes lábtolás",
+        "Img": "https://iwellness.hu/wp-content/uploads/2024/04/Eagle_Leg_Press-02.jpg",
         "Description": "A térdelő lábtolás gépen segít a comb és a gluteus izmainak erősítésében, miközben javítja a térd stabilitását.",
         "Equipment": "Lábtoló gép"
     },
@@ -507,7 +507,7 @@
         "id": 64,
         "MuscleGroup": "Karok",
         "Name": "Bicepsz hajlítás",
-        "ShortDescription": "Bicepsz erősítés",
+        "Img": "https://www.lyfta.app/_next/image?url=https%3A%2F%2Flyfta.app%2Fimages%2Fexercises%2F02941101.png&w=640&q=10",
         "Description": "A bicepsz hajlítás a karok egyik alapgyakorlata, amely erősíti a bicepsz izmokat.",
         "Equipment": "Súlyzó"
     },
@@ -515,7 +515,7 @@
         "id": 65,
         "MuscleGroup": "Vállak",
         "Name": "Vállprés",
-        "ShortDescription": "Váll izom fejlesztés",
+        "Img": "",
         "Description": "A vállprés a vállak teljes körű erősítésére szolgál, különösen a váll izmainak fejlesztésére.",
         "Equipment": "Súlyzó"
     },
@@ -523,119 +523,79 @@
         "id": 66,
         "MuscleGroup": "Has",
         "Name": "Oldalsó plank",
-        "ShortDescription": "Oldalsó törzs stabilizáló gyakorlat",
+        "Img": "https://img.freepik.com/free-photo/full-shot-man-doing-side-plank_23-2149557821.jpg?ga=GA1.1.1862892664.1740727810",
         "Description": "Az oldalsó plank segít erősíteni az oldalsó hasizmokat és javítja a törzs stabilitását.",
         "Equipment": "Nincs"
     },
     {
         "id": 67,
-        "MuscleGroup": "Mellkas",
+        "MuscleGroup": "Vállak",
         "Name": "Kábeles kereszthúzás",
-        "ShortDescription": "Mellkas kinyitása kábellel",
+        "Img": "https://liftmanual.com/wp-content/uploads/2023/04/cable-standing-high-cross-triceps-extension.jpg",
         "Description": "A kábeles kereszt segít erősíteni a mellizmot és a vállakat, miközben javítja a mellkas formáját.",
         "Equipment": "Kábeles gép"
     },
     {
         "id": 68,
-        "MuscleGroup": "Hát",
-        "Name": "Mellről húzódzkodás",
-        "ShortDescription": "Hát és bicepsz edzés",
-        "Description": "A mellről húzódzkodás segít fejleszteni a hát izmait és javítja a karok erősségét.",
-        "Equipment": "Súlyzó"
-    },
-    {
-        "id": 69,
         "MuscleGroup": "Lábak",
         "Name": "Lábemelés fekve",
-        "ShortDescription": "Lábak és hasizmok fejlesztése",
+        "Img": "https://cdn.shopify.com/s/files/1/0536/1244/5846/files/lying_leg_raise_2_480x480.jpg?v=1724959935",
         "Description": "A lábemelés fekve a combizmok és a hasizmok erősítésére szolgál, különösen a deréktáji területeken.",
         "Equipment": "Nincs"
     },
     {
-        "id": 70,
+        "id": 69,
         "MuscleGroup": "Karok",
         "Name": "Tricepsz tolódzkodás",
-        "ShortDescription": "Tricepsz edzés saját testsúllyal",
+        "Img": "",
         "Description": "A tolódzkodás a tricepsz és a váll izmainak fejlesztésére szolgál, miközben a törzset is dolgoztatja.",
         "Equipment": "Nincs"
     },
     {
-        "id": 71,
-        "MuscleGroup": "Vállak",
-        "Name": "Légzés gyakorlatok vállhoz",
-        "ShortDescription": "Vállizom erősítése légzés kontrollal",
-        "Description": "A légzés technikák segítenek a vállizmok mélyebb elérésében és javítják a fizikai teljesítményt.",
-        "Equipment": "Nincs"
-    },
-    {
-        "id": 72,
+        "id": 70,
         "MuscleGroup": "Has",
         "Name": "Helyben futás",
-        "ShortDescription": "Kardio és hasizom edzés",
+        "Img": "",
         "Description": "A helyben futás segít az állóképesség növelésében és a hasizmok erősítésében.",
         "Equipment": "Nincs"
     },
     {
-        "id": 73,
+        "id": 71,
         "MuscleGroup": "Mellkas",
         "Name": "Térdhez húzott fekvőtámasz",
-        "ShortDescription": "Fekvőtámasz variáció",
+        "Img": "https://res.cloudinary.com/peloton-cycle/image/fetch/f_auto,c_limit,w_3840,q_90/https://images.ctfassets.net/6ilvqec50fal/6tlnfSc4xZL51Xtm0R1bq4/a9d3d6230b8d31c069a0f65f0c540210/manrunningoutside.jpg",
         "Description": "A térdhez húzott fekvőtámasz segít a mellizom és a tricepsz fejlesztésében, miközben könnyíti a gyakorlatot.",
         "Equipment": "Nincs"
     },
     {
-        "id": 74,
-        "MuscleGroup": "Hát",
-        "Name": "Széles húzódzkodás szűk fogás",
-        "ShortDescription": "Széles hát erősítése szűk fogással",
-        "Description": "A szűk fogású széles húzódzkodás erősíti a hátat és javítja a karok és a vállak erejét.",
-        "Equipment": "Súlyzó"
-    },
-    {
-        "id": 75,
-        "MuscleGroup": "Lábak",
-        "Name": "Guggolás súlyzóval",
-        "ShortDescription": "Alap láb edzés súlyzóval",
-        "Description": "A súlyzóval végzett guggolás erősíti a combokat, a feneket és a core izmokat.",
-        "Equipment": "Súlyzó"
-    },
-    {
-        "id": 76,
+        "id": 72,
         "MuscleGroup": "Karok",
         "Name": "Tricepsz rúddal",
-        "ShortDescription": "Tricepsz fejlesztés rúddal",
+        "Img": "https://mirafit.co.uk/wp/wp-content/uploads/2022/03/man-doing-a-skull-crusher-exercise-with-2.5kg-weight-plates-1-1024x683.jpg",
         "Description": "A tricepsz rúddal végzett gyakorlat célzottan fejleszti a tricepsz izmot.",
         "Equipment": "Rúd"
     },
     {
-        "id": 77,
+        "id": 73,
         "MuscleGroup": "Vállak",
         "Name": "Oldalsó vállnyomás",
-        "ShortDescription": "Váll és kar edzés",
+        "Img": "https://img.freepik.com/free-photo/young-man-making-sport-exercises-home_1328-3084.jpg?t=st=1740732875~exp=1740736475~hmac=847e8a9aa486a75c9e58326f15f3f505a0bf71f996e8f90d8a8bd6ee508bf570&w=996",
         "Description": "Az oldalsó vállnyomás segít erősíteni a vállat és a karokat, miközben javítja a stabilitást.",
         "Equipment": "Súlyzó"
     },
     {
-        "id": 78,
-        "MuscleGroup": "Has",
-        "Name": "Hasprés",
-        "ShortDescription": "Alap hasizom gyakorlat",
-        "Description": "A hasprés az egyik legjobb gyakorlat a hasizmok erősítésére és a törzs stabilizálására.",
-        "Equipment": "Nincs"
-    },
-    {
-        "id": 79,
+        "id": 74,
         "MuscleGroup": "Mellkas",
         "Name": "Kézi súlyzós fekvenyomás",
-        "ShortDescription": "Fekvenyomás saját kézi súlyzóval",
+        "Img": "https://i.ytimg.com/vi/VmB1G1K7v94/maxresdefault.jpg",
         "Description": "A kézi súlyzóval végzett fekvenyomás segít a mellkas, váll és tricepsz fejlesztésében.",
         "Equipment": "Súlyzó"
     },
     {
-        "id": 80,
+        "id": 75,
         "MuscleGroup": "Hát",
         "Name": "Gépes evezés",
-        "ShortDescription": "Hát edzés gépen",
+        "Img": "https://www.puregym.com/media/0epkvais/seated-row.jpg?quality=80",
         "Description": "A gépes evezés segít fejleszteni a hátizmokat, miközben a vállakat is dolgoztatja.",
         "Equipment": "Gép"
     }

@@ -35,4 +35,24 @@ class UserInfoController extends BaseController
 
     // Update the user's info
 
+    public function update(Request $request, $id)
+    {
+        $userInfo = UserInfo::find($id);
+        if (is_null($userInfo)) {
+            return $this->sendError('Nem található ilyen adat!', [], 404);
+        }
+        $input = $request->all();
+        $validator = Validator::make($input, [
+            'height' => 'required|regex:/^\d+(\.\d{1,2})?$/',
+            'weight' => 'required|regex:/^\d+(\.\d{1,2})?$/',
+        ]);
+        if ($validator->fails()) {
+            return $this->sendError($validator->errors(), [], 400);
+        }
+        $userInfo->height = $input['height'];
+        $userInfo->weight = $input['weight'];
+        $userInfo->save();
+        return $this->sendResponse($userInfo, 'Adatok sikeresen frissítve!');
+    }
+
 }
