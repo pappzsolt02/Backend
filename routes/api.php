@@ -39,14 +39,13 @@ Route::middleware('auth:sanctum')->group(function () {
 
     // User info (only the update and show routes)
     Route::resource('user-info', UserInfoController::class)->except('index');
-    Route::resource('user-info-update', UserInfoController::class);
+    Route::put('/user-info/{id}', [UserInfoController::class, 'update']);
 
     // User weekly foods
     Route::resource('user-weekly-foods', UserWeeklyFoodsController::class);
-
-    // Custom delete route for user weekly food
     Route::delete('user-weekly-foods-delete/{id}', [UserWeeklyFoodsController::class, 'destroy']);
 
     // User weekly workouts
     Route::resource('user-weekly-workouts', UserWeeklyWorkoutController::class);
+    Route::delete('user-weekly-workouts-delete/{id}', [UserWeeklyWorkoutController::class, 'destroy']);
 });
