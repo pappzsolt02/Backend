@@ -14,38 +14,39 @@ use Illuminate\Support\Facades\Route;
 //     return $request->user();
 // })->middleware('auth:sanctum');
 
-// api/
-//User registration and login
+// User registration and login
 Route::post('register', [AuthController::class, 'register']);
 Route::post('login', [AuthController::class, 'login']);
 
-//Foods routes
+// Foods routes
 Route::get('foods', [FoodController::class, 'foods']);
 Route::get('foods/{type}', [FoodController::class, 'food']);
 
-//Workouts routes
+// Workouts routes
 Route::get('workouts', [WorkoutController::class, 'workouts']);
 Route::get('workout/{musclegroup}', [WorkoutController::class, 'workout']);
 
-//Have to login
+// Need to be logged in
 Route::any('have-to-login', function () {
-    // return response()->json('Bejelentkezés szükséges',401);
     $bc = new BaseController();
     return $bc->sendError('Bejelentkezés szükséges', '', 401);
 });
 
+// Authenticated routes
 Route::middleware('auth:sanctum')->group(function () {
-    //logout
+    // Logout
     Route::post('logout', [AuthController::class, 'logout']);
 
-    //User info
-    Route::resource('user-info',UserInfoController::class, ['execpt' => 'index']);
+    // User info (only the update and show routes)
+    Route::resource('user-info', UserInfoController::class)->except('index');
     Route::resource('user-info-update', UserInfoController::class);
 
-    //User weekly foods
+    // User weekly foods
     Route::resource('user-weekly-foods', UserWeeklyFoodsController::class);
 
-    //User weekly workouts
+    // Custom delete route for user weekly food
+    Route::delete('user-weekly-foods-delete/{id}', [UserWeeklyFoodsController::class, 'destroy']);
+
+    // User weekly workouts
     Route::resource('user-weekly-workouts', UserWeeklyWorkoutController::class);
 });
-

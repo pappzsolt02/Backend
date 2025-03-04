@@ -43,4 +43,22 @@ class UserWeeklyWorkoutController extends BaseController
 
         return $this->sendResponse($userWeeklyWorkout, 'Adatok sikeresen elküldve!', 201);
     }
+
+    //Delete a user weekly workout entry
+    public function destroy($id)
+    {
+        // Find the user weekly food entry by ID
+        $userWeeklyWork = UserWeeklyWorkout::find($id);
+
+        // If the user weekly food entry does not exist, return an error response
+        if (!$userWeeklyWork) {
+            return $this->sendError('Nem található a keresett adat!', [], 404);
+        }
+
+        // Delete the user weekly food entry
+        $userWeeklyWork->delete();
+
+        // Return success response after deletion
+        return $this->sendResponse([], 'Adat sikeresen törölve!', 204);
+    }
 }

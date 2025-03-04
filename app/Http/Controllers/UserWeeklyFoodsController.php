@@ -15,6 +15,7 @@ class UserWeeklyFoodsController extends BaseController
         return $this->sendResponse($userWeeklyFoods, 'Adatok elküldve');
     }
 
+    //Post a user weekly food entry
     public function store(Request $request)
     {
         $user = Auth::user();
@@ -44,5 +45,23 @@ class UserWeeklyFoodsController extends BaseController
         $userWeeklyFood = UserWeeklyFood::create($input);
 
         return $this->sendResponse($userWeeklyFood, 'Adatok sikeresen elküldve!', 201);
+    }
+
+    //Delete a user weekly food entry
+    public function destroy($id)
+    {
+        // Find the user weekly food entry by ID
+        $userWeeklyFood = UserWeeklyFood::find($id);
+
+        // If the user weekly food entry does not exist, return an error response
+        if (!$userWeeklyFood) {
+            return $this->sendError('Nem található a keresett adat!', [], 404);
+        }
+
+        // Delete the user weekly food entry
+        $userWeeklyFood->delete();
+
+        // Return success response after deletion
+        return $this->sendResponse([], 'Adat sikeresen törölve!', 204);
     }
 }
